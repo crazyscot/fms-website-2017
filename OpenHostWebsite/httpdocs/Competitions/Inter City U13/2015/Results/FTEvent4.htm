@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:ft="http://www.fencingtime.com">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="Content-Language" content="en-GB" />
+    <meta http-equiv="Expires" content="-1" />
+    <title> Live Results</title>
+    <link rel="stylesheet" href="FTStyles.css" type="text/css" />
+    <link rel="stylesheet" href="FTFlags.css" type="text/css" />
+    <link rel="stylesheet" href="jquery-ui-1.8.16.custom.css" type="text/css" />
+    <script src="jquery-1.6.2.min.js" type="text/javascript"> </script>
+    <script src="jquery-ui-1.8.16.custom.min.js" type="text/javascript"> </script>
+    <script type="text/javascript">
+          $(document).ready(function() 
+          {
+            $("#roundTabs").tabs();
+            $("#roundTabs").tabs('select', $("#roundTabs").tabs('length')-1);
+            
+            $(".roundItemTabsDiv").each(function(i)
+            {
+              var id = $(this).attr("id");
+              $("#" + id).tabs();
+              $("#" + id).tabs('select', $("#" + id).tabs('length')-1);
+            });
+
+            $(".roundName").hide();
+            $(".roundItemName").hide();
+            
+            $(".viewSelect").change(function()
+            {
+              var selIndex = $(this).prop("selectedIndex");
+              var deTable  = $(this).parent().parent().find(".elimTableau");
+              var numCols  = deTable.find("tr")[0].cells.length;
+              
+              var i = 0;
+              while(i < selIndex) {
+                var sel = "td:nth-child(" + (i+1) + ")";
+                deTable.find(sel).hide();
+                i++;
+              }
+              while(i != selIndex + 5 && i < numCols) {
+                var sel = "td:nth-child(" + (i+1) + ")";
+                deTable.find(sel).show();
+                i++;
+              }
+              while(i < numCols) {
+                var sel = "td:nth-child(" + (i+1) + ")";
+                deTable.find(sel).hide();
+                i++;
+              }
+            });
+
+
+            $(".elimTableau:not(.repApfTableau)").each(function()
+            {
+              var nCols = $(this).find("tr")[0].cells.length;
+              var j = 5;
+              while(j < nCols) {
+                $(this).find("td:nth-child(" + (j+1) + ")").hide();
+                j++;
+              }
+            });            
+          });
+        </script>
+  </head>
+  <body>
+    <div class="page">
+      <div class="pageHeader ui-corner-all">
+        <div class="leftLogo">
+          <div>
+            <a href="index.htm">
+              <img src="ftlogo.png" />
+            </a>
+          </div>
+          <div class="ftLogoText">www.FencingTime.com</div>
+          <div class="backButton navButton ui-corner-all">
+            <a href="index.htm">Return to Schedule</a>
+          </div>
+        </div>
+        <div class="tournInfo">
+          <span class="tournName">InterCities 2015</span>
+          <br />
+          <span class="tournDetails">U9 Mixed Foil<br />Saturday, 7 November 2015 - 1:00 p.m.</span>
+          <br />
+          <br />
+          <span class="lastUpdate">Last Updated:   
+                  4/11/2015 - 8:30 p.m.</span>
+        </div>
+        <div class="rightLogo">
+          <img src="midsouthlogoone.png" />
+        </div>
+      </div>
+      <div id="roundTabs" class="roundTabsDiv">
+        <ul class="jumpList">
+          <li>
+            <a href="#prelimSeed" class="jumpListItem1">Preliminary Seeding</a>
+          </li>
+          <li>
+            <a href="#checkIn" class="jumpListItem1">Check-In Status</a>
+          </li>
+        </ul>
+        <div class="roundDiv" id="prelimSeed">
+          <div class="roundName">Preliminary Seeding</div>
+          <table class="dataTable" xmlns="">
+            <tr class="dataTableHeaderRow">
+              <th>Seed</th>
+              <th>Name</th>
+              <th>Club(s)</th>
+              <th>Country</th>
+            </tr>
+            <tr class="dataTableOddRow">
+              <td>1</td>
+              <td>Lehmann, Harrison</td>
+              <td> </td>
+              <td>
+                <span class="flag flagNZL">
+                  <!---->
+                </span>NZL </td>
+            </tr>
+            <tr class="dataTableEvenRow">
+              <td>2</td>
+              <td>Wang, Daniel</td>
+              <td> </td>
+              <td>
+                <span class="flag flagNZL">
+                  <!---->
+                </span>NZL </td>
+            </tr>
+            <tr class="dataTableOddRow">
+              <td>3</td>
+              <td>Li, Ryan</td>
+              <td> </td>
+              <td>
+                <span class="flag flagNZL">
+                  <!---->
+                </span>NZL </td>
+            </tr>
+          </table>
+        </div>
+        <div class="roundDiv" id="checkIn">
+          <div class="roundName">Competitor Check-In Status</div>
+          <div class="checkInSummary" xmlns="">0 
+      of 
+      3 
+      competitors checked-in.</div>
+          <table class="dataTable" xmlns="">
+            <tr class="dataTableHeaderRow">
+              <th>Status</th>
+              <th>Name</th>
+              <th>Club(s)</th>
+              <th>Country</th>
+            </tr>
+            <tr class="dataTableOddRow">
+              <td class="checkin"> </td>
+              <td>Lehmann, Harrison </td>
+              <td> </td>
+              <td>
+                <span class="flag flagNZL">
+                  <!---->
+                </span>NZL </td>
+            </tr>
+            <tr class="dataTableEvenRow">
+              <td class="checkin"> </td>
+              <td>Li, Ryan </td>
+              <td> </td>
+              <td>
+                <span class="flag flagNZL">
+                  <!---->
+                </span>NZL </td>
+            </tr>
+            <tr class="dataTableOddRow">
+              <td class="checkin"> </td>
+              <td>Wang, Daniel </td>
+              <td> </td>
+              <td>
+                <span class="flag flagNZL">
+                  <!---->
+                </span>NZL </td>
+            </tr>
+          </table>
+        </div>
+      </div>
+      <div class="pageFooter">Live Results generated by Fencing Time v4.1 Tournament Software<br /><a href="http://www.fencingtime.com">www.FencingTime.com</a><br />
+            Copyright © 2015 by Fencing Time, LLC
+          </div>
+    </div>
+  </body>
+</html>

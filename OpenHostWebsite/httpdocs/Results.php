@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html>
+  <!-- InstanceBegin template="/Templates/IndexTemp.dwt" codeOutsideHTMLIsLocked="false" -->
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="-1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fencing Mid-South: promoting the sport of fencing in the upper South
+      Island of NZ</title>
+    <!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link rel="stylesheet" type="text/css" href="CSS/Site_responsive.css">
+  </head>
+  <body>
+    <div class="page-container">
+      <div class="row">
+        <div class="col-12 banner-image"> 
+        </div>
+      </div>
+      <div class="row">
+		<?php include 'standard-menu-row.php'; ?>
+      </div>
+	  <hr>
+      <div class="wrapper">
+        <div class="sidebar-0 sidebar-1">
+			<?php include 'sidebar-menu.php'; ?>
+        </div>		
+        <div class="main-0 main-1">
+                  <div class="row whatsnew">
+                    <div class="col-3">29-30 August</div>
+                    <div class="col-9">
+						<p id="South Island Champs 2015"><strong>South Island Champs 2015</strong></p>
+						<p> <a href="/Results/SouthIslandChamps2015/index.htm" target="_blank">Detailed competition results</a> 
+						including seeding, pool results, DE tableau, and final placings.
+						</p>
+					</div>
+				  </div>
+                  <div class="row whatsnew">
+                    <div class="col-3">15 August</div>
+                    <div class="col-9">
+					  <p id="Spring Cup"><strong>Spring Cup</strong></p>
+                      <ul>
+                        <li><a target="_blank" href="Results/Spring%20Cup%202015/Women%27s%20Foil%20Spring%20Cup%202015.htm">Women's
+                            Foil</a></li>
+                        <li><a target="_blank" href="Results/Spring%20Cup%202015/Men%27s%20Foil%20Spring%20Cup%202015.htm">Men's
+                            Foil</a></li>
+                        <li><a target="_blank" href="Results/Spring%20Cup%202015/Mixed%20Sabre%20Spring%20Cup%202015.htm">Mixed
+                            Sabre</a></li>
+                        <li><a target="_blank" href="Results/Spring%20Cup%202015/Mixed%20Epee%20Spring%20Cup%202015.htm">Mixed
+                            Epee</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="row whatsnew">
+                    <div class="col-3">1-2 August</div>
+                    <div class="col-9"><span style="font-weight: bold;">Mid South Secondary
+                        School Champs</span><br>
+                      Final summarised results for:<br>
+                      <ul>
+                        <li><a target="_blank" title="Womens Foil" href="Results/SecondarySchoolChamps2015/MidSouth%20Secondary%20Schools%20Women%27s%20Foil.htm">Women's
+                            Foil</a></li>
+                        <li><a target="_blank" title="Womens Foil Teams" href="Results/SecondarySchoolChamps2015/MidSouth%20Secondary%20School%20Women%27s%20Foil%20Teams.htm">Women's
+                            Foil Teams</a></li>
+                        <li><a target="_blank" title="Mens Foil" href="Results/SecondarySchoolChamps2015/MidSouth%20Secondary%20Schools%20Men%27s%20Foil.htm">Men's
+                            Foil</a></li>
+                        <li><a target="_blank" title="Mens Foil Teams" href="Results/SecondarySchoolChamps2015/MidSouth%20Secondary%20Schools%20Men%27s%20Foil%20Teams.htm">Men's
+                            Foil Teams</a></li>
+                        <li><a target="_blank" title="Mixed Epee" href="Results/SecondarySchoolChamps2015/MidSouth%20%20Secondary%20Schools%20Mixed%20Epee.htm">Mixed
+                            Epee</a></li>
+                        <li><a target="_blank" title="Epee Team" href="Results/SecondarySchoolChamps2015/MidSouth%20Secondary%20Schools%20Epee%20Team.htm">Mixed
+                            Epee Teams</a></li>
+                        <li><a target="_blank" title="Sabre" href="Results/SecondarySchoolChamps2015/MidSouth%20Secondary%20School%20Mixed%20Sabre.htm">Mixed
+                            Sabre</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="row whatsnew">
+                    <div class="col-3">
+					  <p id="Presidents Cup">25-26 July</p></div>
+                    <div class="col-9"><strong>Presidents Cup, Veteran Foil, and NZ U23 Sabre</strong><br>
+                      <a target="_blank" title="Presidents Cup 2015 detailed scores"
+
+                        href="Results/PresidentsCup2015/index.htm">Detailed
+                        (ex-live) scores</a> from pools and DE rounds.<br>
+                      Final summarised results for:<br>
+                      <ul>
+                        <li><a target="_blank" title="Mens Epee Summary Results"
+
+                            href="Results/PresidentsCup2015/FinalResults/President%27s%20Cup%20Men%27s%20Epee%202015.htm">Men's
+                            Epee</a></li>
+                        <li><a target="_blank" title="Mens Foil Summary Results"
+
+                            href="Results/PresidentsCup2015/FinalResults/President%27s%20Cup%20Men%27s%20Foil%202015.htm">Men's
+                            Foil</a></li>
+                        <li><a target="_blank" title="Mens Sabre Summary Results"
+
+                            href="Results/PresidentsCup2015/FinalResults/President%27s%20Cup%20Men%27s%20Sabre%202015.htm">Men's
+                            Sabre</a></li>
+                        <li><a target="_blank" title="Womens Epee Summary Results"
+
+                            href="Results/PresidentsCup2015/FinalResults/President%27s%20Cup%20Women%27s%20Epee%202015.htm">Women's
+                            Epee</a></li>
+                        <li><a target="_blank" title="Womens Foil Summary Results"
+
+                            href="Results/PresidentsCup2015/FinalResults/President%27s%20Cup%20Women%27s%20Foil%202015.htm">Women's
+                            Foil</a></li>
+                        <li><a target="_blank" title="Womens Sabre Summary Results"
+
+                            href="Results/PresidentsCup2015/FinalResults/President%27s%20Cup%20Women%27s%20Sabre%202015.htm">Women's
+                            Sabre</a></li>
+                        <li><a target="_blank" title="Veteran Foil Summary Results"
+
+                            href="Results/PresidentsCup2015/FinalResults/Veteran%27s%20Foil%20Challenge%202015.htm">Veteran
+                            Foil</a></li>
+                        <li><a target="_blank" title="U23 Sabre" href="Results/PresidentsCup2015/FinalResults/NZU23%20Sabre%202015.htm">U23
+                            Sabre</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="row whatsnew">
+                    <div class="col-3">27, 28 June</div>
+                    <div class="col-9"><strong>Games of the Future</strong><br>
+                      <a target="_blank" title="U11 Mixed Foil results" href="Results/GamesOfTheFuture2015/U11%20Mixed%20Foil.htm">Under
+                        11 Mixed Foil</a><br>
+                      <a target="_blank" title="U13 Mixed Foil results" href="Results/GamesOfTheFuture2015/U13%20Mixed%20Foil.htm">Under
+                        13 Mixed Foil</a><br>
+                      <a target="_blank" title="Beginners Mixed Foil results" href="Results/GamesOfTheFuture2015/Secondary%20Schools%20Beginners%20Foil.htm">Beginners
+                        Open Mixed Foil</a><br>
+                      <a target="_blank" title="Open Mixed Foil results" href="Results/GamesOfTheFuture2015/Secondary%20Schools%20Experienced%20Foil.htm">Open
+                        Mixed Foil</a></div>
+                  </div>
+                  <div class="row whatsnew">
+                    <div class="col-3">21 June</div>
+                    <div class="col-9"><strong>Mid Winter Cup</strong><br>
+                      (Foil results coming soon)<br>
+                      <a target="_blank" title="Mixed Epee results" href="Results/MidWinterCup2015/Men%27s%20Epee%20Mid-Winter%20Cup.htm">Open
+                        Senior Mixed Epee</a><br>
+                      <a target="_blank" title="Mixed Saber results" href="Results/MidWinterCup2015/Mixed%20Sabre%20Mid-Winter%20Cup.htm">Open
+                        Sabre Mixed Saber</a><span style="color: #42413c;"><span
+
+                          style="text-decoration: underline;"></span></span>
+				    </div>
+                  </div>
+                  <div class="row whatsnew">
+                    <div class="col-3">13 June</div>
+                    <div class="col-9"><a href="Results/Canterbury_schools_champs_2015/Canterbury_schools_champs_2015.html">Canterbury
+                        Schools Fencing Champs</a></div>
+                  </div>
+                  <div class="row whatsnew">
+                    <div class="col-3">27,28 March</div>
+                    <div class="col-9"><strong>Autumn Cup 2015</strong><br>
+						<a href="Results/Autumn%20Cup/Autumn%20Cup%20Mixed%20Epee.htm">Autumn
+                        Cup Mixed Epee</a><br>
+						<a href="Results/Autumn%20Cup/Aututmn%20Cup%20Mixed%20Open%20Foil.htm">Aututmn
+                        Cup Mixed Open Foil</a>
+					</div>
+                  </div>
+                  <div class="row whatsnew">
+                    <div class="col-3">22 March</div>
+                    <div class="col-9"> <span style="font-weight: bold;">Olga
+                        Jekyll Mixed Teams</span><br>
+                      The OJ Mixed Teams is an inclusive fun event that is held
+                      at the beginning of the season to encourage fencing in
+                      clubs and schools. Olga Jekyll, UFC’s founder and patron,
+                      traditionally donated electric foils as spot prizes for
+                      the event and United has continued the tradition and her
+                      equal opportunity ideals.<br>
+                      <br>
+                      The Olga Jekyll Mixed Teams was held at Avonside Girls’
+                      High School Gymnasium on Sunday the 22nd of March 2015.
+                      Thirty-one fencers took part ranging in age from 7 to 47
+                      year with Referees in their teens to their eighties. There
+                      three groupings of fencers organised into fairly even
+                      mixed teams.<br>
+                      <br>
+                      <a href="Results/OLGAJEKYLL/Open%20Foil%20Mixed%20Team.htm">Open
+                        Foil Mixed Team results</a> 
+					</div>
+                  </div>
+                  <div class="row whatsnew">
+                    <div class="col-3">7 &amp; 8 March 2015</div>
+                    <div class="col-9"><strong>The MidSouth U15 &amp; Cadet Champs</strong><br>
+						<a href="Results/MarchU15andU17Champs/U15%20&amp;%20U17%20Mixed%20Epee.htm">U15
+                        &amp; U17 Mixed Epee</a><br>
+						<a href="Results/MarchU15andU17Champs/U15%20Men%27s%20Foil.htm">U15
+                        Men's Foil</a><br>
+						<a href="Results/MarchU15andU17Champs/U15%20Women%27s%20Foil.htm">U15
+                        Women's Foil</a><br>
+						<a href="Results/MarchU15andU17Champs/U17%20Mixed%20Foil.htm">U17
+                        Mixed Foil</a>
+					</div>
+                  </div>
+		
+		</div>
+      </div>
+      <br>
+      <footer>
+        <address> Updated: 26 August 2015, 20:34<br>
+          <br>
+          Contact: <a href="mailto:info@fencingmidsouth.org.nz">Fencing Mid
+            South</a> </address>
+      </footer>
+    </div>
+    <!-- Start of StatCounter Code for Default Guide -->
+    <script type="text/javascript">
+var sc_project=10510169; 
+var sc_invisible=1; 
+var sc_security="73b15cd9"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script><noscript><div class="statcounter"><a title="shopify
+analytics ecommerce tracking" href="http://statcounter.com/shopify/" target="_blank"><img
+
+class="statcounter" src="http://c.statcounter.com/10510169/0/73b15cd9/1/" alt="shopify analytics ecommerce
+tracking"></a></div></noscript>
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="-1">
+    <!-- InstanceEnd -->
+  </body>
+</html>

@@ -1,0 +1,121 @@
+
+*, * *, * * *, * * * *, * * * * *{margin: 0; padding: 0;}
+
+.pageTitle 
+{
+	padding: 10px;
+	margin: 10px;
+	color: rgb(225, 112, 9);
+	font-weight: bold;
+	font-size: 16pt;
+	background: #dfeffc url('css/images/ui-bg_glass_85_dfeffc_1x400.png');
+	border: 1px solid rgb(121, 183, 231);
+	
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+
+.tournInfo{
+	color: #000; 
+	font-size: 11pt; 
+	font-weight: normal; 
+	padding-left: 10px;
+}
+
+#tabset{
+	margin: 0px;
+	border: 0px;
+}
+
+#tabset ul{
+	border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+}
+
+#tabset>ul li{
+	font-size: 12pt;
+}
+
+div.roundDiv > ul li{
+	font-size: 9pt;
+}
+
+div.roundDiv > div.roundPart{
+	border: 1px solid rgb(121, 183, 231);
+	border-top: 0px;
+}
+
+.linkList{display: none;}
+
+.roundDiv, .roundPart{clear: both;}
+
+hr{width: 1px; height: 1px; clear: both;}
+
+.backBox{
+	position: relative;
+	float: right;
+	top: 0px;
+	font-size: 11pt;
+	width: auto;
+	border: 1px solid #f00;
+	background: #fdd;
+	padding: 10px;
+	
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+
+.backbox a:hover{
+	text-decoration: underline;
+}
+
+.poolDScore, .eliminatedRow{
+	background: #faa;
+}
+.poolVScore{
+	background: #afa;
+}
+
+th.reportHeaderCell{
+	color: #fff;
+	font-size: 13pt;
+	background-color: rgb(225, 112, 9);
+}
+
+.eventScheduleHeader{
+	padding: 10px;
+	margin: 10px;
+	font-weight: bold;
+	font-size: 16pt;
+	border: 1px solid rgb(121, 183, 231);
+	text-decoration: none;
+
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+
+
+.eventDayHeader{
+	text-decoration: underline;
+}
+
+.reportTable, .eventDayHeader{
+	margin: 10px 30px 10px 30px;
+}
+.reportTable{
+	margin-bottom: 30px;
+}
+
+.ftFooter{
+	text-align: center;
+}
+
+.sideBySideColumn{
+	display: inline;
+	width: 30%;
+}
+

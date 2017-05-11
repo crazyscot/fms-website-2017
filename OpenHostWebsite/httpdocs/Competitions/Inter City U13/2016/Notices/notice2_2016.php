@@ -1,0 +1,2 @@
+	<h2><a href = "http://www.fencingmidsouth.org.nz/Competitions/Inter City U13/2016">2016 Inter-cities U13 competition</a></h2>
+	<p><a href="http://www.fencingmidsouth.org.nz/Competitions/Inter%20City%20U13/2016/Results/index.htm" target="_blank">Full results are now available</a></p>

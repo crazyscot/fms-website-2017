@@ -1,0 +1,317 @@
+body
+{
+    font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+}
+
+.pageTitle 
+{
+    font-size: 24px;
+    font-weight: bold;
+    border: solid 2px darkblue;
+    padding: 4px;
+    background-color: #6688aa;
+    margin-bottom: 16px;
+}
+
+.pageTitle a
+{
+	text-decoration: none;
+	color: Black;
+}
+
+.tournInfo 
+{
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.eventScheduleHeader
+{
+	font-size: 20px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.eventDayHeader
+{
+	margin-top: 16px;
+	font-size: 16px;
+	font-weight: normal;
+}
+
+.lastUpdate
+{
+    margin-top: 8px;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.listTitle
+{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.backBox
+{
+	width: 30%;
+    background-color: #FF8888;
+    border: solid 2px red;
+    padding: 4px;
+    margin-bottom: 32px;
+}
+
+.backBox a
+{
+    font-size: 16px;
+    font-weight: bold;
+	text-decoration: none;
+	color: black;
+}
+
+.linkList
+{
+    width: 30%;
+    background-color: #90EE90;
+    border: solid 2px green;
+    padding: 4px;
+    margin-bottom: 4px;
+}
+
+.linkListItem
+{
+    font-size: 12px;
+    margin-left: 32px;
+}
+
+.linkListItem2
+{
+    font-size: 12px;
+    margin-left: 64px;
+}
+
+.roundDiv
+{
+    margin-bottom: 32px;
+}
+
+.roundName
+{
+	width: 100%;
+    background-color: #8888FF;
+    border: solid 2px blue;
+    padding: 4px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+
+.roundPart
+{
+    margin-bottom: 32px;
+    clear: both;
+}
+
+.roundPartName
+{
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-top: 10px;
+}
+
+.eventClass 
+{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.sideBySideColumn
+{
+	width: 33%;
+	float: left;
+}
+
+.ratingsNote
+{
+    font-size: 14px;
+}
+
+.ftFooter
+{
+    margin-top: 64px;
+    font-size: 12px;
+}
+
+/* Report table display ------------------------------- */
+.reportTable
+{
+    border: 2px solid black;
+    padding: 0;
+    margin: 0;
+}
+
+td.reportCell
+{
+    border-bottom: 1px solid #dddddd;
+    border-right: 1px solid #dddddd;
+    padding: 2px 4px 2px 4px;
+}
+
+th.reportHeaderCell
+{
+    background-color: #ccffcc;
+    border-bottom: 2px solid black;
+    border-right: 1px solid #dddddd;
+    padding: 2px 4px 2px 4px;
+    text-align: left;
+}
+
+.eliminatedRow
+{
+    background-color: #FF8888;
+}
+.excludedRow
+{
+    background-color: #333333;
+    color: #FFFFFF;
+}
+
+.goldResultRow
+{
+    background-color: #FFD700;
+}
+.silverResultRow
+{
+    background-color: #888888;
+    color: #FFFFFF;
+}
+.bronzeResultRow
+{
+    background-color: #A67D3D;
+    color: #FFFFFF;
+}
+
+/* Pool display ------------------------------- */
+.poolNameCol
+{
+    width: 200px;
+    font-size: 14px;
+}
+.poolNumCol
+{
+    width: 25px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+}
+.poolScoreCol
+{
+    width: 32px;
+    font-size: 14px;
+    text-align: center;
+}
+.poolSpacerCol
+{
+    width: 10px;
+}
+.poolResultCol
+{
+    width: 32px;
+    font-size: 14px;
+    text-align: center;
+}
+.poolResultColWide
+{
+    width: 42px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.poolNumAndStrip
+{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.poolColHeader
+{
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.poolScoreFill
+{
+    background-color: black;
+}
+
+.poolUnkScore
+{
+    border: solid black 1px;
+    text-align: center;
+}
+
+.poolVScore
+{
+    background-color: #80FF80;
+    border: solid black 1px;
+    text-align: center;
+}
+
+.poolDScore
+{
+    background-color: #FF8080;
+    border: solid black 1px;
+    text-align: center;
+}
+
+.poolResult
+{
+    border: solid black 1px;
+    text-align: center;
+}
+
+.poolRefList
+{
+    font-size: 14px;
+    font-weight: normal;
+    margin-top: 8px;
+}
+
+.poolRefTitle
+{
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+/* Tableau display ------------------------------- */
+.tableauTable 
+{
+	font-size: 12px;
+	margin-top: 8px;
+}
+
+.tableColumnTitle
+{
+    font-size: 14px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.tableBorderRight
+{
+    border-right: solid 1px black;
+}
+
+.tableBorderBottom
+{
+    border-bottom: solid 1px black;
+}
+
+.tableBorderBottomRight
+{
+    border-bottom: solid 1px black;
+    border-right: solid 1px black;
+}

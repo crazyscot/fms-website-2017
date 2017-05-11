@@ -1,0 +1,691 @@
+﻿html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video 
+{
+    margin:             0;
+    padding:            0;
+    border:             0;
+    font-size:          100%;
+    font:               inherit;
+}
+
+table 
+{
+    border-collapse:    collapse;
+    border-spacing:     0;
+}
+
+body
+{
+    background:         #B6B7BC;
+    font-size:          .80em;
+    font-family:        "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    margin:             0px;
+    padding:            0px;
+}
+
+.page
+{
+    margin:             16px;
+}
+
+.flag
+{
+    clear:              both;
+    display:            inline-block;
+    margin-right:       4px;
+    vertical-align:     text-top;
+    background-image:   url("FTFlags.png");
+}
+
+/* Page header (tournament and event name) ------------------------------- */
+.pageHeader
+{
+    background:         #4B6C9E;
+    width:              100%;
+    float:              right;
+    margin-bottom:      8px;
+    position:           relative;
+    height:             122px;
+}
+
+.leftLogo
+{
+    float:              left;
+    margin:             4px;
+    height:             114px;
+}
+
+.ftLogoText
+{
+    color:              #FFFFFF; 
+    font-size:          .85em; 
+    font-weight:        bold; 
+    text-align:         center;
+    margin-top:         4px;
+    margin-bottom:      2px;
+}
+
+.tournInfo
+{
+    color:              #F9F9F9;
+    font-variant:       small-caps;
+    text-align:         left;
+    float:              left;
+    margin-left:        8px;
+    margin-bottom:      4px;
+}   
+    
+.tournName  
+{   
+    font-size:          2em;
+    font-weight:        bold
+    line-height:        1.2em;
+}
+
+.tournDetails
+{
+    font-size:          1.2em;
+    margin-top:         4px;
+}
+
+.rightLogo
+{
+    position:           absolute;
+    top:                0px;
+    right:              0px;
+    margin:             4px;
+}
+
+.rightLogo img
+{
+    max-height:         115px;
+    max-width:          auto;
+}
+
+.backButton
+{
+    position:           absolute;
+    bottom:             8px;
+    margin:             0 8px;
+}
+
+.navButton
+{
+    background:         #FAFAD2;
+    border:             solid 1px #D2B48C;
+    padding:            6px;
+}
+
+.navButton:hover
+{
+    background:         #EEE8AA;
+}
+
+.navButton a
+{
+    color:              black;
+    font-size:          1.1em;
+    font-variant:       small-caps;
+    text-decoration:    none;
+    font-weight:        bold
+}
+
+.lastUpdate
+{
+    color:              yellow;
+    font-size:          1.5em;
+    font-variant:       small-caps;
+    margin-top:         8px;
+}
+
+
+/* Page footer ------------------------------- */
+.pageFooter
+{
+    margin-top:         4px;
+    color:              #222222;
+    text-align:         center;
+}
+
+
+/* Index page elements ----------------------- */
+.scheduleTabDiv
+{
+    clear:              both;
+}
+
+.scheduleDayName
+{
+    font-size:          1.4em;
+    color:              #666666;
+    font-variant:       small-caps;
+    text-transform:     none;
+    margin-bottom:      0px;
+}
+
+div#schedule  a
+{
+    text-decoration:    none;
+}
+
+/* Misc elements  ------------------------------- */
+.checkInSummary
+{
+    font-size:          1.4em;
+    color:              #666666;
+    font-variant:       small-caps;
+    text-transform:     none;
+    margin-bottom:      8px;
+}
+
+.checkin
+{
+    text-align:         center;
+}
+
+.checkedIn
+{
+    color:              #008000;
+}
+
+.scratched
+{
+    color:              #FF0000;
+}
+
+.ncaa
+{
+    font-size:          0.8em;
+    margin-top:         4px;
+}
+
+.eventFormat
+{
+    font-size:          1.4em;
+    color:              #333333;
+    font-variant:       small-caps;
+    text-transform:     none;
+    margin-bottom:      8px;
+    line-height:        1.5em;
+}
+
+.eventFormatRound
+{
+    margin-bottom:      8px;
+    line-height:        1.5em;
+}
+
+.eventFormatRoundName
+{
+    font-weight:        bold;
+    text-decoration:    underline;
+}
+
+.eventFormatDetails
+{
+    font-size:          1.2em;
+}
+
+
+/* Round tabs ------------------------------- */
+.roundTabsDiv
+{
+    clear:              both;
+}
+
+.roundName
+{
+    background:         #8888FF;
+    border:             solid 1px #0000FF;
+    padding:            2px;
+    font-size:          1.2em;
+    font-weight:        bold;
+    margin-bottom:      8px;
+    margin-top:         16px;
+}
+
+
+/* Round sub-item tabs ------------------------------- */
+.roundItemTabsDiv
+{
+    clear:              both;
+}
+
+.roundItemName
+{
+    font-size:          1.1em;
+    font-weight:        bold;
+} 
+
+
+/* Data tables ------------------------------- */
+.dataTable
+{
+    border:             solid 1px #D2B48C;
+    border-collapse:    collapse;
+    font-size:          1em;
+    line-height:        1.5em;
+    width:              100%;
+    vertical-align:     top;
+    text-align:         left;
+    font-style:         normal;
+}
+
+.dataTableHeaderRow , .dataTableHeaderRow th, .dataTableHeaderRow td
+{
+    font-weight:        bold;
+    background:         #D2B48C;
+    line-height:        1em;
+}
+
+.dataTableOddRow
+{
+    background:         #FAFAD2;
+}
+
+.dataTableEvenRow
+{
+    background:         #EEE8AA;
+}
+
+.dataTableExcludedRow
+{
+    background:         #333333;
+    color:              #FFFFFF;
+}
+
+.dataTableNoShowRow
+{
+    background:         #333333;
+    color:              #FFFFFF;
+}
+
+.dataTableGoldResultRow
+{
+    background:         #FFD700;
+}
+
+.dataTableSilverResultRow
+{
+    background:         #888888;
+    color:              #FFFFFF;
+}
+
+.dataTableBronzeResultRow
+{
+    background:         #A67D3D;
+    color:              #FFFFFF;
+}
+
+.statusElim
+{
+    color:              #FF0000;
+}
+
+.statusAdvanced
+{
+    color:              #008000;
+}
+
+
+/* Misc elements ------------------------------- */
+.finalResultsEventClass 
+{
+    font-size:          1.2em;
+    font-weight:        bold;
+    margin-bottom:      8px;
+}
+
+.finalResultsRatingsNote
+{
+    margin-top:         8px;
+}
+
+
+/* Pool elements ------------------------------- */
+.poolNum
+{
+    font-size:          1.4em;
+    color:              #666666;
+    font-variant:       small-caps;
+    text-transform:     none;
+    margin-bottom:      0px;
+    font-family:        Tahoma, serif;
+}
+
+.poolStripTime
+{
+    font-size:          1.2em;
+    color:              #444444;
+    font-variant:       small-caps;
+    text-transform:     none;
+    margin-bottom:      0px;
+    font-family:        Tahoma, serif;
+    font-weight:        bold;
+}
+
+.pool
+{
+    color:              #000000;
+    border:             solid 1px #D2B48C; 
+    border-collapse:    collapse;
+    font-size:          1em;
+    line-height:        1.3em;
+}
+
+.pool td
+{
+    padding:            2px 4px 2px 4px;
+    border-right:       solid 1px #D2B48C;
+    border-bottom:      solid 1px #D2B48C;
+    height:             30px;
+    font-style:         normal;
+    vertical-align:     middle;
+}
+
+.poolHeader th
+{
+    font-weight:        bold;
+    text-align:         center;
+    vertical-align:     top;
+    font-style:         normal;
+    background:         #D2B48C; 
+    padding:            1px;
+    border:             0px;
+    line-height:        1em;
+}
+
+.poolOddRow 
+{
+    background-color:   #FAFAD2;
+    vertical-align:     middle;
+}
+
+.poolEvenRow
+{
+    background-color:   #EEE8AA;
+    vertical-align:     middle;
+}
+
+.poolNameCol
+{
+    padding:            2px;
+    min-width:          220px;
+}
+
+.poolPosCol
+{
+    background-color:   #D2B48C; 
+    font-weight:        bold;
+    text-align:         center;
+    vertical-align:     middle;
+    width:              10px;
+}
+
+.poolScoreCol
+{
+    min-width:          30px;
+    font-size:          1.2em;
+    text-align:         center;
+    vertical-align:     middle;
+    font-weight:        normal;
+}
+
+.poolSpacerCol
+{
+    background-color:  #D2B48C;
+    width:              10px;
+}
+
+.poolResultCol
+{
+    text-align:         center;
+    vertical-align:     middle;
+    min-width:          30px;
+    font-size:          1.2em;
+}
+
+.poolAffil
+{
+    color:              #666666;
+    font-size:          0.8em;
+}
+
+.poolScoreFill
+{
+    background-color:   #695A46;
+}
+
+.poolWithdrawn
+{
+    background-color:   #AAAAAA;
+}
+
+.poolExcluded
+{
+    background-color:   #AAAAAA;
+}
+
+.poolNoShow
+{
+    background-color:   #AAAAAA;
+}
+
+.poolScoreVictory
+{
+    text-align:         center;
+    background-color:   #88FF88;
+}
+
+.poolScoreDefeat
+{
+    text-align:         center;
+    background-color:   #FF8888;
+}
+
+.poolRefsDiv
+{
+    margin-top:         4px;
+}
+
+.poolRefsHeader
+{
+    font-size:          1.0em;
+    font-weight:        bold;
+    font-variant:       small-caps;
+    font-family:        Tahoma, serif;
+    text-transform:     none;
+}
+
+.poolRefName
+{
+    color:              #0000FF;
+}
+
+
+/* Elimination tableau ------------ */
+.elimTableau
+{
+    color:              #000000;
+    background-color:   #FAFAD2;
+    border:             solid 1px #D2B48C; 
+    border-collapse:    collapse;
+    font-size:          1em;
+}
+
+.elimTableu td
+{
+  border-width:         0px;
+}
+
+.tableauAltRow
+{
+    background-color:   #EEE8AA;
+}
+
+.tableauColumnTitle
+{
+    text-align:         center;
+    font-weight:        bold;
+    background:         #D2B48C;
+    font-size:          1em;
+    line-height:        1em;
+}
+
+.tableauBorderRight
+{
+    border-right:       solid 2px #222222;
+}
+
+.tableauBorderLeft
+{
+    border-left:        solid 2px #222222;
+}
+
+.tableauBorderLeftRight
+{
+    border-left:        solid 2px #222222;
+    border-right:       solid 2px #222222;
+}
+
+.tableauBorderBottom
+{
+    border-bottom:      solid 2px #222222;
+    vertical-align:     bottom;
+}
+
+.tableauBorderBottomRight
+{
+    border-bottom:      solid 2px #222222;
+    border-right:       solid 2px #222222;
+    vertical-align:     bottom;
+}
+
+.tableauBorderBottomLeft
+{
+    border-bottom:      solid 2px #222222;
+    border-left:        solid 2px #222222;
+    vertical-align:     bottom;
+}
+
+.tableauBorderBottomLeftRight
+{
+    border-bottom:      solid 2px #222222;
+    border-left:        solid 2px #222222;
+    border-right:       solid 2px #222222;
+    vertical-align:     bottom;
+}
+
+.tableauNameCell
+{
+    font-size:          .75em;
+}
+
+.tableauSeed
+{
+    font-weight:        bold;
+    color:              #000000;
+}
+
+.tableauCompName
+{
+    font-weight:        bold;
+    color:              #0000FF;
+}
+
+.tableauCompRating
+{
+    color:              #666666;
+    font-size:          0.8em;
+}
+
+.tableauCompAffil
+{
+    color:              #666666;
+    font-size:          0.8em;
+    padding-left:       1px;
+}
+
+.tableauReferee
+{
+    color:              #666666;
+    font-size:          0.8em;
+    vertical-align:     top;
+}
+
+.tableauStripPart
+{
+    color:              #FF0000;
+    font-size:          1.2em;
+    text-align:         right;
+    font-weight:        bold;
+}
+
+/* Team match scores -------------- */
+.tableauMatchDetailsLink a
+{
+    color:              black;
+    font-size:          0.8em;
+    font-variant:       small-caps;
+    text-decoration:    none;
+    font-weight:        bold
+}
+
+.teamMatch
+{
+    margin-top:         16px;
+}
+
+.teamMatchName
+{
+    font-size:          1.4em;
+    color:              #666666;
+    font-variant:       small-caps;
+    text-transform:     none;
+    margin-bottom:      0px;
+}
+
+.teamMatchNumCol    
+{
+    border-right:       solid 1px #D2B48C;
+    text-align:         center;
+    width:              7%;
+}
+    
+ .teamMatchNameCol
+{
+    border-right:       solid 1px #D2B48C;
+    text-align:         center;
+    width:              30%;
+}
+
+.teamMatchTouchesCol
+{
+    border-right:       solid 1px #D2B48C;
+    text-align:         center;
+    width:              5%;
+}
+
+.teamMatchScoreCol
+{
+    border-right:       solid 1px #D2B48C;
+    text-align:         center;
+    width:              8%;
+}
+
+.teamMatchRefs
+{
+    margin-top:         4px;
+    color:              #0000FF;
+}

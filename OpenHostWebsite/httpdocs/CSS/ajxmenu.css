@@ -1,0 +1,94 @@
+@charset "utf-8";
+
+.AJXCSSMenuAfPOZNA {  
+  position: static;  
+  z-index: 99;  
+  line-height: 0;  
+  padding-top: 0px;  
+  top: 0px;  
+  left: 0px;  
+  text-align: right;
+}
+
+.AJXCSSMenuAfPOZNA ul {  
+  position: relative;  
+  display: inline-block;  
+  margin-top: 0px;  
+  margin-right: 0px;  
+  margin-bottom: 0px;  
+  margin-left: 0px;  
+  padding-top: 1px;  
+  padding-right: 1px;  
+  padding-bottom: 1px;  
+  padding-left: 1px;  
+  list-style-type: none;  
+  background-color: #e6e6e6;  
+  background-image: none;  
+  background-repeat: repeat;  
+  background-attachment: scroll;  
+  background-position: 0% 0%;
+}
+
+* + html .AJXCSSMenuAfPOZNA ul {  
+  display: inline;
+}
+
+.AJXCSSMenuAfPOZNA li {  
+  float: left;  
+  margin-top: 0px;  
+  margin-right: 0px;  
+  margin-bottom: 0px;  
+  margin-left: 1px;
+}
+
+.AJXCSSMenuAfPOZNA li:first-child {  
+  margin-left: 0px;
+}
+
+.AJXCSSMenuAfPOZNA a, .AJXCSSMenuAfPOZNA_n a {  
+  display: block;  
+  overflow: hidden;
+}
+
+.AJXCSSMenuAfPOZNA > ul > li > a {  
+  width: 78px;  
+  height: 70px;  
+  white-space: normal;  
+  line-height: 25px;  -epub-text-transform: uppercase;
+  text-transform: uppercase;  
+  text-align: center;  
+  border-top-width: 1px;  
+  border-top-style: solid;  
+  border-top-color: white;  
+  border-right-width: 1px;  
+  border-right-style: solid;  
+  border-right-color: white;  
+  border-bottom-width: 1px;  
+  border-bottom-style: solid;  
+  border-bottom-color: white;  
+  border-left-width: 1px;  
+  border-left-style: solid;  
+  border-left-color: white;  
+  color: white;  
+  font-family: Verdana, Geneva, sans-serif;  
+  font-size: 11px;  
+  font-weight: bolder;  
+  background-color: white;  
+  background-image: url("../images/menuTab2.png");  
+  padding-top: 0px;  
+  padding-right: 6px;  
+  padding-bottom: 0px;  
+  padding-left: 10px;  
+  vertical-align: middle;
+}
+
+.AJXCSSMenuAfPOZNA > ul > li:hover > a, .AJXCSSMenuAfPOZNA > ul > li.ajxover > a {  
+  color: white;  
+  background-color: white;  
+  background-image: url("../images/MenuTab.jpg");
+}
+
+a {  
+  list-style-position: inside;
+}
+
