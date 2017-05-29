@@ -27,7 +27,7 @@
 			<div class="trophy">
 				<h1>Mid South Under 20 2017</h1>
 				<h1>Notices</h1>
-					<?php include './Notices/midsouth_U20_notice_2017.php'; ?>
+					<?php include './Notices/midsouth_u20_notice_2017.php'; ?>
 				<hr>
 				<h1>Results</h1>
 				<div class="trophy">

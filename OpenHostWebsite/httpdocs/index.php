@@ -33,7 +33,7 @@
 		    <?php include './Notices/EntertainmentBooks2017.php';?>
           </div>
           <div class="whatsnew">
-		    <?php include './Notices/twist_2017.php'; ?>
+		    <?php include './Competitions/MidSouth U20/2017/Notices/midsouth_u20_notice_2017.php'; ?>
           </div>		  
           <div class="whatsnew">
 		    <?php include './Competitions/Games Of The Future/2017/Notices/Games Of The Future 2017.php'; ?>
