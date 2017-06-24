@@ -33,6 +33,7 @@
 				<hr>
 				<h1>Results</h1>
 				<div class="trophy">
+				  <a href="./Results/index.htm" target="_blank">Full results are available here</a>
 				</div>
 			</div>
 		</div>
