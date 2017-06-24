@@ -26,7 +26,7 @@
         <div class="main-0 main-1">
 			<div class="trophy">
 				<h1>Games of the Future 2017</h1>
-				<h1>Notices</h1>
+				<h1>Noticess</h1>
 				<div class="trophy">
 					<?php include './Notices/Games Of The Future 2017.php'; ?>
 				</div>
