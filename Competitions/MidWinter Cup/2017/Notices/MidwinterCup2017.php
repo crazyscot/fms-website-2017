@@ -8,5 +8,5 @@
 	<a target="_blank" href="https://goo.gl/forms/wYcT0FuD033VormI2">Online registrations</a> are open now, registrations close 12th July.
 </p>
 <p>
-	<a href="http://www.fencingmidsouth.org.nz/Competitions/MidWinter Cup/Results/" target="_blank">Full results are now available here.</a>
+	<a href="http://www.fencingmidsouth.org.nz/Competitions/MidWinter Cup/2017/Results/" target="_blank">Full results are now available here.</a>
 </p>
