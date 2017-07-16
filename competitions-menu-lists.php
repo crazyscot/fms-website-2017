@@ -17,6 +17,7 @@
             <li><a href="http://www.fencingmidsouth.org.nz/Competitions/Spring Cup"							>Spring Cup</a></li>
             <li><a href="http://www.fencingmidsouth.org.nz/Competitions/EcclestonEpee"						>Eccleston Epee</a></li>
             <li><a href="http://www.fencingmidsouth.org.nz/Competitions/TimaruFoilChallenge"				>Timaru Foil Challenge</a></li>
+            <li><a href="http://www.fencingmidsouth.org.nz/Competitions/CanterburySchoolsComp"				>Canterbury Schools</a></li>
           </ul>
 		  <p>National</p>
           <ul class="nav trophy-nav">
