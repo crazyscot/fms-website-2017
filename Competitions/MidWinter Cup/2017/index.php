@@ -28,10 +28,11 @@
 				<h1>Midwinter Cup 2017</h1>
 				<h1>Notices</h1>
 				<div class="trophy">
-				<?php include './Notices/MidwinterCup2017.php'; ?>
+					<?php include './Notices/MidwinterCup2017.php'; ?>
 				</div>
 				<hr>
 				<h1>Results</h1>
+					<p><a href="http://www.fencingmidsouth.org.nz/Competitions/MidWinter Cup/2017/Results/" target="_blank">Full results are now available here.</a></p>
 			</div>
 		</div>
       </div>

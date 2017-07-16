@@ -31,7 +31,7 @@
 					second year of fencing, who have not medalled in another competition.
 				</p>
 				<ul>
-					<li><a href="./2015">2015</a></li>
+					<li><a href="./2016">2016</a></li>
 				</ul>
 			</div>
 		</div>
