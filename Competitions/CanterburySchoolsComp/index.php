@@ -27,12 +27,12 @@
 			<div class="trophy">
 				<h1>Canterbury Schools Fencing Championship</h1>
 				<p>
-					The Canterbury Schools Fencing Championship is run by United Fencing. It is open to all fencers
+					The Canterbury Schools Fencing Championship is a club competition run by United Fencing. It is open to all fencers
 					who are at primary or secondary school in Canterbury. It includes sections for novices, primary school, 
 					secondary school, and many more to ensure fencers get the best competition possible.
 				</p>
 				<ul>
-					<li><a href="./2016">2017</a></li>
+					<li><a href="./2017">2017</a></li>
 				</ul>
 			</div>
 		</div>
