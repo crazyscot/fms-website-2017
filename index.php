@@ -33,17 +33,8 @@
 		    <?php include './Notices/EntertainmentBooks2017.php';?>
           </div>
           <div class="whatsnew">
-		    <?php include './Competitions/MidSouth U20/2017/Notices/midsouth_u20_notice_2017.php'; ?>
+		    <?php include './Competitions/MidSouth Secondary School Champs/2017/Notices/notice.php'; ?>
           </div>		  
-          <div class="whatsnew">
-		    <?php include './Competitions/Games Of The Future/2017/Notices/Games Of The Future 2017.php'; ?>
-          </div>		  
-          <div class="whatsnew">
-		    <?php include './Competitions/MidWinter Cup/2017/Notices/MidwinterCup2017.php'; ?>
-          </div>		  
-          <div class="whatsnew">
-		    <?php include './Notices/2016_awards.php'; ?>
-          </div>
 		</div>
       </div>
       <br>
