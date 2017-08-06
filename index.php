@@ -33,6 +33,9 @@
 		    <?php include './Notices/EntertainmentBooks2017.php';?>
           </div>
           <div class="whatsnew">
+		    <?php include './Competitions/SI Champs/2017/Notices/SIChamps_2017_notices.php'; ?>
+          </div>		  
+          <div class="whatsnew">
 		    <?php include './Competitions/MidSouthPrimaryIntSchools/2017/Notices/MSPrimaryInt2017.php'; ?>
           </div>		  
           <div class="whatsnew">
