@@ -6,7 +6,7 @@
     <meta http-equiv="Expires" content="-1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<?php require_once '../../../config.php'; ?>
-    <title>Fencing Mid-South Competitions - South Island Champs - 2016</title>
+    <title>Fencing Mid-South Competitions - South Island Champs - 2017</title>
     <!--[if lt IE 9]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     <link rel="stylesheet" type="text/css" href="../../../CSS/Site_responsive.css">
@@ -25,14 +25,18 @@
 		<?php include '../../../competitions-sidebar.php'; ?>
         <div class="main-0 main-1">
 			<div class="trophy">
-				<h1>South Island Champs 2016</h1>
+				<h1>South Island Champs 2017</h1>
 				<h1>Notices</h1>
 				<div class="trophy">
-					<?php include './Notices/SIChamps_2016_notices.php'; ?>
+					<?php include './Notices/SIChamps_2017_notices.php'; ?>
 				</div>
 				<hr>
 				<h1>Results</h1>
 				<div class="trophy">
+					<p> 
+						<a href="./Results/index.htm" target="_blank">Detailed competition results can be found here</a> 
+						including seeding, pool results, DE tableau, and final placings.
+					</p>				
 				</div>
 			</div>
 		</div>
