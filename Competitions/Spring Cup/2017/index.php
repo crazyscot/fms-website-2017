@@ -5,11 +5,11 @@
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="-1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<?php require_once '../../config.php'; ?>
-    <title>Fencing Mid-South Competitions - Spring Cup</title>
+	<?php require_once '../../../config.php'; ?>
+    <title>Fencing Mid-South Competitions - Spring Cup - 2017</title>
     <!--[if lt IE 9]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-    <link rel="stylesheet" type="text/css" href="../../CSS/Site_responsive.css">
+    <link rel="stylesheet" type="text/css" href="../../../CSS/Site_responsive.css">
   </head>
   <body>
     <div class="page-container">
@@ -18,32 +18,27 @@
         </div>
       </div>
       <div class="row">
-		<?php include '../../standard-menu-row.php'; ?>
+		<?php include '../../../standard-menu-row.php'; ?>
       </div>
 	  <hr>
       <div class="wrapper">
-		<?php include '../../competitions-sidebar.php'; ?>
+		<?php include '../../../competitions-sidebar.php'; ?>
         <div class="main-0 main-1">
 			<div class="trophy">
-				<h1>Spring Cup</h1>
-				<p>
-					The Spring Cup is held every year in Spring, as the name suggests. It is the last of a series of 
-					three competitions: Autum Cup, Midwinter Cup, and Spring Cup.
-				</p>
-				<p>
-				</p>
+				<h1>Spring Cup 2017</h1>
+				<h1>Notices</h1>
+				<div class="trophy">
+					<?php include './Notices/SpringCupNotice2017.php'; ?>
+				</div>
 				<hr>
-				<h2>Seasons</h2>
-				<ul>
-					<li><a href="./2015">2015</a></li>
-					<li><a href="./2016">2016</a></li>
-					<li><a href="./2017">2017</a></li>
-				</ul>
+				<h1>Results</h1>
+				<div class="trophy">
+				</div>
 			</div>
 		</div>
       </div>
       <br>
-		<?php include 'standard-footer.php'; ?>
+		<?php include '../../../standard-footer.php'; ?>
     </div>
     <!-- Start of StatCounter Code for Default Guide -->
     <script type="text/javascript">

@@ -30,8 +30,8 @@
         <div class="main-0 main-1">
           <div><img src="images/WhatsNew.png" height="52" width="119"></div>
           <div class="whatsnew">
-		    <?php include './Notices/EntertainmentBooks2017.php';?>
-          </div>
+		    <?php include './Competitions/Spring Cup/2017/Notices/SpringCupNotice2017.php'; ?>
+          </div>		  
           <div class="whatsnew">
 		    <?php include './Competitions/SI Champs/2017/Notices/SIChamps_2017_notices.php'; ?>
           </div>		  
@@ -41,6 +41,9 @@
           <div class="whatsnew">
 		    <?php include './Competitions/MidSouth Secondary School Champs/2017/Notices/notice.php'; ?>
           </div>		  
+          <div class="whatsnew">
+		    <?php include './Notices/EntertainmentBooks2017.php';?>
+          </div>
 		</div>
       </div>
       <br>
