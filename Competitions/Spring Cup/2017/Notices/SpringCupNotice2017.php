@@ -9,4 +9,8 @@
 <p>
 	Full details including <a href="https://goo.gl/forms/Pel05t4nFGbUW50K2" target="_blank"> online entry</a> are <a href="http://www.fencingmidsouth.org.nz/Competitions/Spring Cup/2017/Notices/Spring Cup 2017.pdf" target="_blank"> available here.</a>
 </p>
+<p>
+	Results will be available <a target="_blank" href="./Results/index.htm">here</a>.
+</p>
+
 
