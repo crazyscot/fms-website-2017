@@ -30,6 +30,9 @@
         <div class="main-0 main-1">
           <div><img src="images/WhatsNew.png" height="52" width="119"></div>
           <div class="whatsnew">
+		    <?php include './Notices/NZJuniorChamps2017.php'; ?>
+          </div>		  
+          <div class="whatsnew">
 		    <?php include './Competitions/Spring Cup/2017/Notices/SpringCupNotice2017.php'; ?>
           </div>		  
           <div class="whatsnew">
