@@ -5,3 +5,4 @@
 	<p>For full information, registration and payment 
 		please <a href="https://www.revolutionise.com.au/fencingmidsouth/events/12240/" target="_blank" >go to the event page</a>.
 	</p>
+	<p><a href="http://www.fencingmidsouth.org.nz/Competitions/Inter%20City%20U13/2017/Results/index.htm" target="_blank">Results will be available here.</a></p>

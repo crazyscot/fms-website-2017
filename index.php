@@ -30,6 +30,9 @@
         <div class="main-0 main-1">
           <div><img src="images/WhatsNew.png" height="52" width="119"></div>
           <div class="whatsnew">
+		    <?php include './Notices/oceania_seniors_nz_vets_2017.php';?>
+          </div>
+          <div class="whatsnew">
 		    <?php include './Competitions/Inter City U13/2017/Notices/notice_2017.php'; ?>
           </div>		  
           <div class="whatsnew">
@@ -38,9 +41,6 @@
           <div class="whatsnew">
 		    <?php include './Competitions/SI Champs/2017/Notices/SIChamps_2017_notices.php'; ?>
           </div>		  
-          <div class="whatsnew">
-		    <?php include './Notices/EntertainmentBooks2017.php';?>
-          </div>
 		</div>
       </div>
       <br>
