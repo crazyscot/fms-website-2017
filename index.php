@@ -33,6 +33,9 @@
 		    <?php include './Competitions/MidSouth Secondary School Beginners/2017/Notices/secondary_school_beginners_notice_2017.php';?>
           </div>
           <div class="whatsnew">
+		    <?php include './Competitions/MidSouth Open/2017/Notices/midsouth_open_notice_2017.php';?>
+          </div>
+          <div class="whatsnew">
 		    <?php include './Notices/oceania_seniors_nz_vets_2017.php';?>
           </div>
           <div class="whatsnew">
