@@ -28,7 +28,7 @@
 				<h1>Mid South Secondary School Foil Beginners 2017</h1>
 				<h1>Notices</h1>
 				<div class="trophy">
-					<?php include './Notices/secondary_school_beginners_notice_2016.php'; ?>
+					<?php include './Notices/secondary_school_beginners_notice_2017.php'; ?>
 				</div>
 				<hr>
 				<h1>Results</h1>
