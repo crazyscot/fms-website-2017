@@ -30,6 +30,9 @@
         <div class="main-0 main-1">
           <div><img src="images/WhatsNew.png" height="52" width="119"></div>
           <div class="whatsnew">
+		    <?php include './Competitions/MidSouth Secondary School Beginners/2017/Notices/secondary_school_beginners_notice_2017.php';?>
+          </div>
+          <div class="whatsnew">
 		    <?php include './Notices/oceania_seniors_nz_vets_2017.php';?>
           </div>
           <div class="whatsnew">

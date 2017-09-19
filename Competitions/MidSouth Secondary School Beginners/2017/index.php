@@ -5,11 +5,11 @@
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="-1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<?php require_once '../../config.php'; ?>
-    <title>Fencing Mid-South Competitions - Mid South Secondary School Foil Beginners</title>
+	<?php require_once '../../../config.php'; ?>
+    <title>Fencing Mid-South Competitions - Mid South Secondary School Beginners Foil - 2017</title>
     <!--[if lt IE 9]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-    <link rel="stylesheet" type="text/css" href="../../CSS/Site_responsive.css">
+    <link rel="stylesheet" type="text/css" href="../../../CSS/Site_responsive.css">
   </head>
   <body>
     <div class="page-container">
@@ -18,28 +18,30 @@
         </div>
       </div>
       <div class="row">
-		<?php include '../../standard-menu-row.php'; ?>
+		<?php include '../../../standard-menu-row.php'; ?>
       </div>
 	  <hr>
       <div class="wrapper">
-		<?php include '../../competitions-sidebar.php'; ?>
+		<?php include '../../../competitions-sidebar.php'; ?>
         <div class="main-0 main-1">
 			<div class="trophy">
-				<h1>Mid South Secondary School Foil for beginners and intermediates</h1>
-				<p>
-					The Mid South Secondary School Beginners Foil competition is for fencers who are in their first or 
-					second year of fencing, who have not medalled in another competition.
-				</p>
-				<ul>
-					<li><a href="./2015">2015</a></li>
-					<li><a href="./2016">2016</a></li>
-					<li><a href="./2017">2017</a></li>
-				</ul>
+				<h1>Mid South Secondary School Foil Beginners 2017</h1>
+				<h1>Notices</h1>
+				<div class="trophy">
+					<?php include './Notices/secondary_school_beginners_notice_2016.php'; ?>
+				</div>
+				<hr>
+				<h1>Results</h1>
+				<div class="trophy">
+					<p>
+						<a href="./Results/index.htm" target = "_blank">Full results will be available here.</a>
+					</p>
+				</div>
 			</div>
 		</div>
       </div>
       <br>
-		<?php include 'standard-footer.php'; ?>
+		<?php include '../../../standard-footer.php'; ?>
     </div>
     <!-- Start of StatCounter Code for Default Guide -->
     <script type="text/javascript">
