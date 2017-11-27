@@ -1,7 +1,7 @@
 <h2>Holiday Fencing</h2>
 <p>
-	Whether you are new to fencing, a novice or an experienced fencer this programme is designed for you. 
-	If you have never fenced minimum age limit to attend is seven years old. 
+	Whether you are new to fencing, a novice or an experienced fencer, this programme is designed for you. 
+	If you have never fenced, the minimum age limit to attend is seven years old. 
 	Maximum age limit is 18 years old or Year 13. 
 </p>
 <p>

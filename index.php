@@ -35,6 +35,9 @@
           <div class="whatsnew">
 		    <?php include './Notices/a-n-p-show-thanks-2017.php';?>
           </div>
+          <div class="whatsnew">
+		    <?php include './Notices/nz_masters_games_2018.php';?>
+          </div>
 		</div>
       </div>
       <br>
