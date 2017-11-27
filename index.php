@@ -30,17 +30,11 @@
         <div class="main-0 main-1">
           <div><img src="images/WhatsNew.png" height="52" width="119"></div>
           <div class="whatsnew">
-		    <?php include './Notices/nz_masters_games_2018.php';?>
+		    <?php include './Notices/fencing-holiday-programme-2017-18.php';?>
           </div>
           <div class="whatsnew">
-		    <?php include './Competitions/MidSouth Open/2017/Notices/midsouth_open_notice_2017.php';?>
+		    <?php include './Notices/a-n-p-show-thanks-2017.php';?>
           </div>
-          <div class="whatsnew">
-		    <?php include './Notices/oceania_seniors_nz_vets_2017.php';?>
-          </div>
-          <div class="whatsnew">
-		    <?php include './Competitions/Inter City U13/2017/Notices/notice_2017.php'; ?>
-          </div>		  
 		</div>
       </div>
       <br>
