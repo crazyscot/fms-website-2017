@@ -30,10 +30,10 @@
         <div class="main-0 main-1">
           <div><img src="images/WhatsNew.png" height="52" width="119"></div>
           <div class="whatsnew">
-		    <?php include './Notices/calendar2018.php';?>
+		    <?php include './Competitions/Autumn Cup/2017/Notices/20180130.php';?>
           </div>
           <div class="whatsnew">
-		    <?php include './Notices/fencing-holiday-programme-2017-18.php';?>
+		    <?php include './Notices/calendar2018.php';?>
           </div>
           <div class="whatsnew">
 		    <?php include './Notices/a-n-p-show-thanks-2017.php';?>
