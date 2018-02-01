@@ -47,7 +47,7 @@
 				</p>				
 				<p>				
 				For more information about up-coming competitions, please refer to 
-				our <a href="http://www.fencingmidsouth.org.nz/Documents/MidSouth Competition Calendar.pdf" target="_blank">competition calendar</a>.
+				our <a href="https://www.revolutionise.com.au/fencingmidsouth/events/calendar/" target="_blank">competition calendar</a>.
 				</p>
 
 			</div>
