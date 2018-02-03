@@ -45,8 +45,7 @@
 					<p></p>
 
 					<p><a href="http://www.fencinginstitute.co.nz" target="_blank">The Fencing Institute</a>, AMI stadium, Addington, Christchurch</p>
-					<p><a href="./Clubs/United.php">United Fencing Club</a>, Shirley, Christchurch</p>
-					<p><a href="http://www.fencingmidsouth.org.nz/Clubs/cfa.php">Christchurch Fencing Academy</a> Burnside, Christchurch</p>
+					<p><a href="https://www.facebook.com/UnitedFencingClub/" target="_blank">United Fencing Club</a>, Shirley, Christchurch</p>
 					<p><a href="http://www.ucfencing.net" target="_blank">University Of Canterbury Fencing Club</a>, Ilam, Christchurch</p>
 					<p><a href="./Clubs/SabreClub.php">The Sabre Club</a>, Waltham Primary School hall.</p>
 					<p>Timaru Swords Club: Contact Graham Payne at <a href="mailto:gpayne101@gmail.com">gpayne101@gmail.com</a></p>
