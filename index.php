@@ -30,16 +30,13 @@
         <div class="main-0 main-1">
           <div><img src="images/WhatsNew.png" height="52" width="119"></div>
           <div class="whatsnew">
+		    <?php include './Competitions/MidSouth U15 Cadets/2018/Notices/notice1.php';?>
+          </div>
+          <div class="whatsnew">
 		    <?php include './Competitions/Autumn Cup/2018/Notices/20180130.php';?>
           </div>
           <div class="whatsnew">
 		    <?php include './Notices/calendar2018.php';?>
-          </div>
-          <div class="whatsnew">
-		    <?php include './Notices/a-n-p-show-thanks-2017.php';?>
-          </div>
-          <div class="whatsnew">
-		    <?php include './Notices/nz_masters_games_2018.php';?>
           </div>
 		</div>
       </div>

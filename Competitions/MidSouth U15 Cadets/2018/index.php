@@ -5,11 +5,11 @@
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="-1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<?php require_once '../../config.php'; ?>
-    <title>Fencing Mid-South Competitions - Mid South Under 15 and Cadets</title>
+	<?php require_once '../../../config.php'; ?>
+    <title>Fencing Mid-South Competitions - Mid South U15 and Cadets - 2017</title>
     <!--[if lt IE 9]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-    <link rel="stylesheet" type="text/css" href="../../CSS/Site_responsive.css">
+    <link rel="stylesheet" type="text/css" href="../../../CSS/Site_responsive.css">
   </head>
   <body>
     <div class="page-container">
@@ -18,54 +18,26 @@
         </div>
       </div>
       <div class="row">
-		<?php include '../../standard-menu-row.php'; ?>
+		<?php include '../../../standard-menu-row.php'; ?>
       </div>
 	  <hr>
       <div class="wrapper">
-		<?php include '../../competitions-sidebar.php'; ?>
+		<?php include '../../../competitions-sidebar.php'; ?>
         <div class="main-0 main-1">
 			<div class="trophy">
-				<h1>Mid South Under 15 and Cadets</h1>
-				<p>
-					The Mid South Under 15's and the Mid South Cadets are two separate competitions, 
-					which recently have been run together.
-				</p>
-				<p>	
-					Cadets is open to Under 17.
-				</p>
-				<h2>Trophies</h2>
-				<p>	
-					For the Under 15 the following trophies are awarded:					
-				</p>
-				<ul>
-					<li>
-						<a href= 'http://<?php echo WWWDOMAIN . "/Trophies/HumberHaystonTrophy Junior Boys Foil.php" ?>'>Hubert Hayston Trophy for Boys Foil</a>
-					</li>
-					<li>
-						<a href= 'http://<?php echo WWWDOMAIN . "/Trophies/FlorenceAndrewsTrophy.php" ?>'>Florence Andrews Trophy for Girls Foil</a>
-					</li>
-				</ul>
-				<p>	
-					For the Cadets the following trophies are awarded
-				</p>
-				<ul>
-					<li>
-						<a href= 'http://<?php echo WWWDOMAIN . "/Trophies/FrankHoggTrophy.php" ?>'>Frank Hogg Trophy for Boys Foil</a>
-					</li>
-				</ul>
+				<h1>Mid South U15 and Cadets 2018</h1>
+				<h1>Notices</h1>
+				<?php include './Notices/notice1.php'; ?>
 				<hr>
-				<h2>Seasons</h2>
-				<ul>
-					<li><a href="./2015">2015</a></li>
-					<li><a href="./2016">2016</a></li>
-					<li><a href="./2017">2017</a></li>
-					<li><a href="./2018">2018</a></li>
-				</ul>
+				<h1>Results</h1>
+				<div class="trophy">
+					<p><a href="http://www.fencingmidsouth.org.nz/Competitions/MidSouth U15 Cadets/2018/Results/index.htm" target="_blank">Live results available</a></p>
+				</div>
 			</div>
 		</div>
       </div>
       <br>
-		<?php include 'standard-footer.php'; ?>
+		<?php include '../../../standard-footer.php'; ?>
     </div>
     <!-- Start of StatCounter Code for Default Guide -->
     <script type="text/javascript">
