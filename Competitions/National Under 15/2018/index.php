@@ -5,11 +5,11 @@
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="-1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<?php require_once '../../config.php'; ?>
-    <title>Fencing Mid-South Competitions - National Under 15</title>
+	<?php require_once '../../../config.php'; ?>
+    <title>Fencing Mid-South Competitions - National Under 15 - 2018</title>
     <!--[if lt IE 9]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-    <link rel="stylesheet" type="text/css" href="../../CSS/Site_responsive.css">
+    <link rel="stylesheet" type="text/css" href="../../../CSS/Site_responsive.css">
   </head>
   <body>
     <div class="page-container">
@@ -18,38 +18,30 @@
         </div>
       </div>
       <div class="row">
-		<?php include '../../standard-menu-row.php'; ?>
+		<?php include '../../../standard-menu-row.php'; ?>
       </div>
 	  <hr>
       <div class="wrapper">
-		<?php include '../../competitions-sidebar.php'; ?>
+		<?php include '../../../competitions-sidebar.php'; ?>
         <div class="main-0 main-1">
 			<div class="trophy">
-				<h1>National Under 15 and Cadets</h1>
-				<p>
-					The National Under 15s and Cadets is a FENZ comptition, not a Mid-South competition. Each of the four 
-					fencing regions takes turns at hosting the event, so Mid-South will only host it every few years.
-				</p>
-				<p>
-					It is one of the major national competitions, with competitors from around the country.
-				</p>
-				<p>
-					The competition is split into categories - Under 15s, and Cadets (under 17). Events in each category are open 
-					to fencers who are 15 or 17 years (according to competition category) or younger on the 1st of January of the current year.
-				</p>
-				<p>
-				</p>
-				<h2>Trophies</h2>
-				<h2>Seasons</h2>
-				<ul>
-					<li><a href="./2017">2017</a></li>
-          <li><a href="./2018">2018</a></li>
-				</ul>
+				<h1>National Under 15 and Cadets 2018</h1>
+				<h2>Notices</h2>
+				<div class="trophy">
+					<?php include './Notices/20180407.php'; ?>
+				</div>
+				<hr>
+				<h2>Results</h2>
+				<div class="trophy">
+					<p>
+						<a href="./Results/index.htm" target="_blank">Live results will be available here.</a>
+					</p>
+				</div>
 			</div>
 		</div>
       </div>
       <br>
-		<?php include 'standard-footer.php'; ?>
+		<?php include '../../../standard-footer.php'; ?>
     </div>
     <!-- Start of StatCounter Code for Default Guide -->
     <script type="text/javascript">
