@@ -34,7 +34,8 @@
 				<h2>Results</h2>
 				<div class="trophy">
 					<p>
-						<a href="./Results/index.htm" target="_blank">Live results will be available here.</a>
+            Live results will be available on the 
+						<a href="http://www.fencingcentral.org.nz/" target="_blank">Fencing Central website</a>.
 					</p>
 				</div>
 			</div>
