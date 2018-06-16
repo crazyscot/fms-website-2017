@@ -30,7 +30,7 @@
         <div class="main-0 main-1">
           <div><img src="images/WhatsNew.png" height="52" width="119"></div>
           <div class="whatsnew">
-		    <?php include './Notices/jacket-order-20180328.php';?>
+		    <?php include './Competitions/MidSouthPrimaryIntSchools/2018/Notices/MSPrimaryInt2018.php';?>
           </div>
           <div class="whatsnew">
 		    <?php include './Notices/foil-and-epee-training-23-3-2018.php';?>
