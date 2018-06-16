@@ -33,7 +33,7 @@
 		    <?php include './Competitions/MidSouthPrimaryIntSchools/2018/Notices/MSPrimaryInt2018.php';?>
           </div>
           <div class="whatsnew">
-		    <?php include './Notices/foil-and-epee-training-23-3-2018.php';?>
+		    <?php include '.Competitions/MidSouth Secondary School Beginners/2018/Notices/secondary_school_beginners_notice_2018.php';?>
           </div>
           <div class="whatsnew">
 		    <?php include './Notices/calendar2018.php';?>
