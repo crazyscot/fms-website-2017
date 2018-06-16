@@ -1,6 +1,6 @@
         <div class="col-6 col-desk-4"> 
 			<a href="http://www.fencingmidsouth.org.nz/">
-				<img src="http://www.fencingmidsouth.org.nz/images/midsouthlogoone.png" height="134" width="312"> 
+				<img src="http://www.fencingmidsouth.org.nz/images/FMSlogo.png" height="134" width="312"> 
 			</a> 
 		</div>
 		<div class="col-6 col-desk-8">
