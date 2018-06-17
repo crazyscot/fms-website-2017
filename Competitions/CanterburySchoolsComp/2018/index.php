@@ -5,11 +5,11 @@
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="-1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<?php require_once '../../config.php'; ?>
-    <title>Fencing Mid-South Competitions - Canterbury Schools Fencing Championship</title>
+	<?php require_once '../../../config.php'; ?>
+    <title>Fencing Mid-South Competitions - Canterbury Schools - 2018</title>
     <!--[if lt IE 9]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-    <link rel="stylesheet" type="text/css" href="../../CSS/Site_responsive.css">
+    <link rel="stylesheet" type="text/css" href="../../../CSS/Site_responsive.css">
   </head>
   <body>
     <div class="page-container">
@@ -18,28 +18,25 @@
         </div>
       </div>
       <div class="row">
-		<?php include '../../standard-menu-row.php'; ?>
+		<?php include '../../../standard-menu-row.php'; ?>
       </div>
 	  <hr>
       <div class="wrapper">
-		<?php include '../../competitions-sidebar.php'; ?>
+		<?php include '../../../competitions-sidebar.php'; ?>
         <div class="main-0 main-1">
 			<div class="trophy">
-				<h1>Canterbury Schools Fencing Championship</h1>
-				<p>
-					The Canterbury Schools Fencing Championship is a club competition run by United Fencing. It is open to all fencers
-					who are at primary or secondary school in Canterbury. It includes sections for novices, primary school, 
-					secondary school, and many more to ensure fencers get the best competition possible.
-				</p>
-				<ul>
-					<li><a href="./2017">2017</a></li>
-					<li><a href="./2017">2018</a></li>
-				</ul>
+				<h1>Canterbury Schools 2018</h1>
+				<h1>Notices</h1>
+				<div class="trophy">
+				</div>
+				<hr>
+				<h1>Results</h1>
+					<p><a href="http://www.fencingmidsouth.org.nz/Competitions/CanterburySchoolsComp/2018/Results/" target="_blank">Full results are now available here.</a></p>
 			</div>
 		</div>
       </div>
       <br>
-		<?php include 'standard-footer.php'; ?>
+		<?php include '../../../standard-footer.php'; ?>
     </div>
     <!-- Start of StatCounter Code for Default Guide -->
     <script type="text/javascript">
