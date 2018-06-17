@@ -33,6 +33,9 @@
 		    <?php include './Notices/PresidentsCup2018.php';?>
           </div>
           <div class="whatsnew">
+		    <?php include './Notices/HolidayProgramme201807.php';?>
+          </div>
+          <div class="whatsnew">
 		    <?php include './Competitions/Games Of The Future/2018/Notices/GamesOfTheFuture2018.php';?>
           </div>
           <div class="whatsnew">
