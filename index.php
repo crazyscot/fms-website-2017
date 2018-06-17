@@ -30,7 +30,7 @@
         <div class="main-0 main-1">
           <div><img src="images/WhatsNew.png" height="52" width="119"></div>
           <div class="whatsnew">
-		    <?php include './Competitions/Games Of The Future/2018/Notices/GamesOfTheFuture.php';?>
+		    <?php include './Competitions/Games Of The Future/2018/Notices/GamesOfTheFuture2018.php';?>
           </div>
           <div class="whatsnew">
 		    <?php include './Competitions/MidSouthPrimaryIntSchools/2018/Notices/MSPrimaryInt2018.php';?>
