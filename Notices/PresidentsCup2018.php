@@ -4,5 +4,5 @@ This year Presidents Cup is being hosted by Fencing Central in Wellington, on 7t
 </p>
 <p>
 More details and registration are 
-<a href = "https://www.revolutionise.com.au/fencingmidsouth/events/14525/" target="_blank">now available</a>.
+<a href = "https://www.revolutionise.com.au/fencingmidsouth/events/14529/" target="_blank">now available</a>.
 </p>
