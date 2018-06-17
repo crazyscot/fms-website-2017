@@ -1,5 +1,5 @@
 <h2><a href="http://www.fencingmidsouth.org.nz/Competitions/Games Of The Future/2018/">Games of the Future 2018</a></h2>
-<img src="http://www.fencingmidsouth.org.nz/Competitions/Games Of The Future/2018/GOTFLogoHeaderSm.JPG">
+<img src="http://www.fencingmidsouth.org.nz/Competitions/Games Of The Future/2018/GOTFLogoHeaderSm.jpg">
 <p>
 	The stars of tomorrow honoring Olympic Day and our Olympic champions! 23rd and 24th June.
 </p>
