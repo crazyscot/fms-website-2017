@@ -6,7 +6,7 @@
     <meta http-equiv="Expires" content="-1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<?php require_once '../../../config.php'; ?>
-    <title>Fencing Mid-South Competitions - Games of the Future - 2017</title>
+    <title>Fencing Mid-South Competitions - Games of the Future - 2018</title>
     <!--[if lt IE 9]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     <link rel="stylesheet" type="text/css" href="../../../CSS/Site_responsive.css">
@@ -25,10 +25,10 @@
 		<?php include '../../../competitions-sidebar.php'; ?>
         <div class="main-0 main-1">
 			<div class="trophy">
-				<h1>Games of the Future 2017</h1>
+				<h1>Games of the Future 2018</h1>
 				<h1>Notices</h1>
 				<div class="trophy">
-					<?php include './Notices/Games Of The Future 2017.php'; ?>
+					<?php include './Notices/GamesOfTheFuture2018.php'; ?>
 				</div>
 				<hr>
 				<h1>Results</h1>
