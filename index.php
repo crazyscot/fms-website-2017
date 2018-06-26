@@ -29,7 +29,10 @@
         </div>		
         <div class="main-0 main-1">
           <div><img src="images/WhatsNew.png" height="52" width="119"></div>
-          <div class="whatsnew">
+		  <div class="whatsnew">
+		    <?php include './Notices/GearHireNotice201806.php';?>
+          </div>
+		  <div class="whatsnew">
 		    <?php include './Notices/PresidentsCup2018.php';?>
           </div>
           <div class="whatsnew">
