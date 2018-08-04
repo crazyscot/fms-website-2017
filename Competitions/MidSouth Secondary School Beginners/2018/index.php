@@ -25,7 +25,7 @@
 		<?php include '../../../competitions-sidebar.php'; ?>
         <div class="main-0 main-1">
 			<div class="trophy">
-				<h1>Mid South Secondary School Foil Beginners 2017</h1>
+				<h1>Mid South Secondary School Foil Beginners 2018</h1>
 				<h1>Notices</h1>
 				<div class="trophy">
 					<?php include './Notices/secondary_school_beginners_notice_2017.php'; ?>
