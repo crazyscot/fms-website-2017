@@ -29,17 +29,14 @@
         </div>		
         <div class="main-0 main-1">
           <div><img src="images/WhatsNew.png" height="52" width="119"></div>
-          <div class="whatsnew">
-		        <?php include './Notices/jacket-order-20180328.php';?>
+		  <div class="whatsnew">
+		    <?php include './Notices/GearHireNotice201806.php';?>
           </div>
           <div class="whatsnew">
-            <?php include './Competitions/National Under 15/2018/Notices/20180407.php';?>
+		    <?php include './Competitions/MidSouthPrimaryIntSchools/2018/Notices/MSPrimaryInt2018.php';?>
           </div>
           <div class="whatsnew">
-		        <?php include './Notices/foil-and-epee-training-23-3-2018.php';?>
-          </div>
-          <div class="whatsnew">
-		        <?php include './Notices/calendar2018.php';?>
+		    <?php include './Competitions/MidSouth Secondary School Beginners/2018/Notices/secondary_school_beginners_notice_2018.php';?>
           </div>
 		</div>
       </div>
@@ -57,8 +54,7 @@ document.write("<sc"+"ript type='text/javascript' src='" +
 scJsHost+
 "statcounter.com/counter/counter.js'></"+"script>");
 </script><noscript><div class="statcounter"><a title="shopify
-analytics ecommerce tracking" href="http://statcounter.com/shopify/" target="_blank"><img
-
+analytics ecommerce tracking" href="http://statcounter.com/shopify/" target="_blank"><img
 class="statcounter" src="http://c.statcounter.com/10510169/0/73b15cd9/1/" alt="shopify analytics ecommerce
 tracking"></a></div></noscript>
     <meta http-equiv="Pragma" content="no-cache">
