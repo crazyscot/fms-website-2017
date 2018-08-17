@@ -29,14 +29,16 @@
         </div>		
         <div class="main-0 main-1">
           <div><img src="images/WhatsNew.png" height="52" width="119"></div>
+          <div class="whatsnew">
+		    <p>Live results for Mid South Secondary School Champs are 
+					<a href="http://www.fencingmidsouth.org.nz/Competitions/MidSouth Secondary School Champs/2018/Results/index.htm" target="_blank">available here</a>.
+			</p>
+          </div>
 		  <div class="whatsnew">
 		    <?php include './Notices/GearHireNotice201806.php';?>
           </div>
           <div class="whatsnew">
 		    <?php include './Competitions/MidSouthPrimaryIntSchools/2018/Notices/MSPrimaryInt2018.php';?>
-          </div>
-          <div class="whatsnew">
-		    <?php include './Competitions/MidSouth Secondary School Beginners/2018/Notices/secondary_school_beginners_notice_2018.php';?>
           </div>
 		</div>
       </div>
