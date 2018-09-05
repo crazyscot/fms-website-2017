@@ -6,7 +6,7 @@
     <meta http-equiv="Expires" content="-1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<?php require_once '../../../config.php'; ?>
-    <title>Fencing Mid-South Competitions - National Under 15 - 2018</title>
+    <title>Fencing Mid-South Competitions - National Secondary Schools</title>
     <!--[if lt IE 9]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     <link rel="stylesheet" type="text/css" href="../../../CSS/Site_responsive.css">
@@ -25,7 +25,7 @@
 		<?php include '../../../competitions-sidebar.php'; ?>
         <div class="main-0 main-1">
 			<div class="trophy">
-				<h1>National Secondar Schools 2018</h1>
+				<h1>National Secondary Schools 2018</h1>
 				<h2>Notices</h2>
 				<div class="trophy">
 					<?php include './Notices/20180905.php'; ?>

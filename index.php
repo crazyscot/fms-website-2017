@@ -30,17 +30,17 @@
         <div class="main-0 main-1">
           <div><img src="images/WhatsNew.png" height="52" width="119"></div>
           <div class="whatsnew">
-		    <p>Live results for Mid South Secondary School Champs are 
-					<a href="http://www.fencingmidsouth.org.nz/Competitions/MidSouth Secondary School Champs/2018/Results/index.htm" target="_blank">available here</a>.
-			</p>
+		        <p>
+              <?php include './Competitions/NationalSecondarySchools/Notices/20180905.php';?>
+			      </p>
           </div>
-		  <div class="whatsnew">
-		    <?php include './Notices/GearHireNotice201806.php';?>
+		      <div class="whatsnew">
+		        <?php include './Notices/GearHireNotice201806.php';?>
           </div>
           <div class="whatsnew">
-		    <?php include './Competitions/MidSouthPrimaryIntSchools/2018/Notices/MSPrimaryInt2018.php';?>
+		        <?php include './Competitions/MidSouthPrimaryIntSchools/2018/Notices/MSPrimaryInt2018.php';?>
           </div>
-		</div>
+		    </div>
       </div>
       <br>
 		<?php include 'standard-footer.php'; ?>
@@ -56,7 +56,8 @@ document.write("<sc"+"ript type='text/javascript' src='" +
 scJsHost+
 "statcounter.com/counter/counter.js'></"+"script>");
 </script><noscript><div class="statcounter"><a title="shopify
-analytics ecommerce tracking" href="http://statcounter.com/shopify/" target="_blank"><img
+analytics ecommerce tracking" href="http://statcounter.com/shopify/" target="_blank"><img
+
 class="statcounter" src="http://c.statcounter.com/10510169/0/73b15cd9/1/" alt="shopify analytics ecommerce
 tracking"></a></div></noscript>
     <meta http-equiv="Pragma" content="no-cache">
