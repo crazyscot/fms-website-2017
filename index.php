@@ -31,7 +31,7 @@
           <div><img src="images/WhatsNew.png" height="52" width="119"></div>
           <div class="whatsnew">
 		        <p>
-              <?php include './Competitions/NationalSecondarySchools/Notices/20180905.php';?>
+              <?php include './Competitions/NationalSecondarySchools/2018/Notices/20180905.php';?>
 			      </p>
           </div>
 		      <div class="whatsnew">
