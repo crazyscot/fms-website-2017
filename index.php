@@ -36,11 +36,12 @@
 				<a href="http://www.fencingmidsouth.org.nz/Competitions/NationalOpen/2018/Results/" target="_blank">here</a>.
 			</p>
           </div>
-		      <div class="whatsnew">
+		  <div class="whatsnew">
 		        <?php include './Notices/GearHireNotice201806.php';?>
 				
           </div>
-		    </div>
+		</div>
+		<?php include 'sidebar-bottom-menu.php'; ?>
       </div>
       <br>
 		<?php include 'standard-footer.php'; ?>
