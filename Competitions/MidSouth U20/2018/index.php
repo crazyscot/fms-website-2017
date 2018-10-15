@@ -5,11 +5,11 @@
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="-1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<?php require_once '../../config.php'; ?>
-    <title>Fencing Mid-South Competitions - Mid South Under 20</title>
+	<?php require_once '../../../config.php'; ?>
+    <title>Fencing Mid-South Competitions - Mid South Under 20 - 2018</title>
     <!--[if lt IE 9]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-    <link rel="stylesheet" type="text/css" href="../../CSS/Site_responsive.css">
+    <link rel="stylesheet" type="text/css" href="../../../CSS/Site_responsive.css">
   </head>
   <body>
     <div class="page-container">
@@ -18,45 +18,30 @@
         </div>
       </div>
       <div class="row">
-		<?php include '../../standard-menu-row.php'; ?>
+		<?php include '../../../standard-menu-row.php'; ?>
       </div>
 	  <hr>
       <div class="wrapper">
-		<?php include '../../competitions-sidebar.php'; ?>
+		<?php include '../../../competitions-sidebar.php'; ?>
         <div class="main-0 main-1">
 			<div class="trophy">
-				<h1>Mid South Under 20</h1>
-				<h2>Trophies</h2>
-				<p>	
-					For the Under 20s the following trophies are awarded:					
-				</p>
-				<ul>
-					<li>
-						<a href= 'http://<?php echo WWWDOMAIN . "/Trophies/ArthurReveKampTrophy.php" ?>'>Arthur Reve Kamp Trophy for Women's Sabre</a>
-					</li>
-					<li>
-						<a href= 'http://<?php echo WWWDOMAIN . "/Trophies/NeilSmithTrophy.php" ?>'>Neil Smith Trophy for Men's Sabre</a>
-					</li>
-					<li>
-						<a href= 'http://<?php echo WWWDOMAIN . "/Trophies/MaxwellPerkinsTrophy.php" ?>'>Maxwell Perkins Trophy for Men's Epee</a>
-					</li>
-					<li>
-						<a href= 'http://<?php echo WWWDOMAIN . "/Trophies/MurrayGoodmanTrophy U20.php" ?>'>Murray Goodman Trophy for Women's Epee</a>
-					</li>
-				</ul>
+				<h1>Mid South Under 20 2018</h1>
+				<h1>Notices</h1>
 				<hr>
-				<h2>Seasons</h2>
-				<ul>
-					<li><a href="./2015">2015</a></li>
-					<li><a href="./2016">2016</a></li>
-					<li><a href="./2017">2017</a></li>
-					<li><a href="./2018">2018</a></li>
-				</ul>
+				<h1>Results</h1>
+				<div class="trophy">
+					<a href="http://www.fencingmidsouth.org.nz/Competitions/MidSouth U20/2018/Results/index.htm" target="_blank">Live results will be available here.</a>
+				</div>
+				
+				<hr>
+				<h1>Summary of details</h1>
+				<div class="trophy">
+				</div>
 			</div>
 		</div>
       </div>
       <br>
-		<?php include 'standard-footer.php'; ?>
+		<?php include '../../../standard-footer.php'; ?>
     </div>
     <!-- Start of StatCounter Code for Default Guide -->
     <script type="text/javascript">
