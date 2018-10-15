@@ -53,6 +53,7 @@
 					<p><a href="Schools.php">Many Christchurch Schools offer fencing</a></p>
 			</div>
 		</div>
+		<?php include 'sidebar-bottom-menu.php'; ?>
       </div>
       <br>
 		<?php include 'standard-footer.php'; ?>

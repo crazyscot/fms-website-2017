@@ -34,6 +34,7 @@
 			<p>Web site: Mark Ogilvie <a href="mailto:webmaster@fencingmidsouth.org.nz">webmaster@fencingmidsouth.org.nz</a></p>
 			<p>If you are looking for club contact information please <a href="Clubs.php">visit our clubs page</a></p>
 		</div>
+		<?php include 'sidebar-bottom-menu.php'; ?>
       </div>
       <br>
 		<?php include 'standard-footer.php'; ?>
