@@ -36,7 +36,7 @@
 				<h2>Trophies</h2>
 				<h2>Seasons</h2>
 				<ul>
-					<li><a href="./2017">2018</a></li>
+					<li><a href="./2018">2018</a></li>
 				</ul>
 			</div>
 		</div>
