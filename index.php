@@ -30,15 +30,15 @@
         <div class="main-0 main-1">
           <div><img src="images/WhatsNew.png" height="52" width="119"></div>
           <div class="whatsnew">
-		        <p>
-              <?php include './Competitions/NationalSecondarySchools/2018/Notices/20180905.php';?>
-			      </p>
+            <h2>NZ National Open, and Veteran Champs</h2>
+			<p>
+				Live results will be available 
+				<a href="http://www.fencingmidsouth.org.nz/Competitions/NationalOpen/2018/Results/" target="_blank">here</a>.
+			</p>
           </div>
 		      <div class="whatsnew">
 		        <?php include './Notices/GearHireNotice201806.php';?>
-          </div>
-          <div class="whatsnew">
-		        <?php include './Competitions/MidSouthPrimaryIntSchools/2018/Notices/MSPrimaryInt2018.php';?>
+				
           </div>
 		    </div>
       </div>
