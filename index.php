@@ -32,13 +32,11 @@
           <div class="whatsnew">
             <h2>NZ National Open, and Veteran Champs</h2>
 			<p>
-				Live results will be available 
-				<a href="http://www.fencingmidsouth.org.nz/Competitions/NationalOpen/2018/Results/" target="_blank">here</a>.
+				<?php include './Competitions/NationalOpen/2018/Notices/20181015.php';?>
 			</p>
           </div>
 		  <div class="whatsnew">
 		        <?php include './Notices/GearHireNotice201806.php';?>
-				
           </div>
 		</div>
 		<?php include 'sidebar-bottom-menu.php'; ?>

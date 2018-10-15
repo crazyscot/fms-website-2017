@@ -27,6 +27,7 @@
 			<div class="trophy">
 				<h1>NZ National Open, and Veteran Champs</h1>
 				<h2>Notices</h2>
+					<?php include './Notices/20181015.php';?>
 				<hr>
 				<h2>Results</h2>
 				<div class="trophy">
