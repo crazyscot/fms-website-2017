@@ -24,5 +24,6 @@
             <li><a href="http://www.fencingmidsouth.org.nz/Competitions/Presidents Cup"						>Presidents Cup</a></li>
             <li><a href="http://www.fencingmidsouth.org.nz/Competitions/SI Champs"							>SI Champs</a></li>
             <li><a href="http://www.fencingmidsouth.org.nz/Competitions/National Under 15"					>National U15</a></li>
-            <li><a href="http://www.fencingmidsouth.org.nz/Competitions/NationalSecondarySchools"   >National Secondary Schools</a></li>
+            <li><a href="http://www.fencingmidsouth.org.nz/Competitions/NationalSecondarySchools"   		>National Secondary Schools</a></li>
+            <li><a href="http://www.fencingmidsouth.org.nz/Competitions/NationalOpen"   					>National Open, Vet Champs</a></li>
           </ul>
