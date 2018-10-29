@@ -21,6 +21,7 @@
       </div>
 	  <hr>
       <div class="wrapper">
+		<?php include '../hall-of-fame-sidebar.php'; ?>
         <div class="main-0 main-1">
 			<div class="trophy">
 				<h1>Olga Jekyll</h1>
@@ -29,7 +30,7 @@
 				</p>
 			</div>
 		</div>
-		<?php include '../trophies-bottombar.php'; ?>
+		<?php include '../hall-of-fame-bottombar.php'; ?>
       </div>
       <br>
 		<?php include '../standard-footer.php'; ?>
