@@ -1,6 +1,7 @@
 <?php    
     // load up your config file
-    require_once("/Users/markogilvie/Documents/GitHub/fms-website/resources/config.php");
+    //require_once("/Users/markogilvie/Documents/GitHub/fms-website/resources/config.php");
+    require_once("../../resources/config.php");
      
     // require_once(TEMPLATES_PATH . "/fms-header.php");
 
