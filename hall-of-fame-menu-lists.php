@@ -1,5 +1,6 @@
           <ul class="nav trophy-nav">
             <li><a href="OlgaJekyll.php">Olga Jekyll</a></li>
+            <li><a href="MartinBrill.php">Martin Brill</a></li>
             <li><a href="Keith Mann.php">Keith Mann</a></li>
             <li><a href="VictorManuge.php">Victor Manuge</a></li>
             <li><a href="DavidEccleston.php">David Eccleston</a></li>
