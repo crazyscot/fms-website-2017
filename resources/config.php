@@ -25,7 +25,8 @@ $config = array(
         )
     ),
     "urls" => array(
-        "baseUrl" => "http://example.com"
+        /* "baseUrl" => "http://www.fencingmidsouth.org.nz"*/
+        "baseUrl" => "localhost"
     ),
     "paths" => array(
         "resources" => "/path/to/resources",
@@ -54,6 +55,12 @@ defined("TEMPLATES_PATH")
 
 defined("CSS_PATH")
     or define("CSS_PATH", realpath(dirname(__DIR__) . '/CSS'));
+
+defined("HOME_PATH")
+    or define("HOME_PATH", realpath(dirname(__DIR__, 1) ));
+
+defined("COMPETITIONS_PATH")
+    or define("COMPETITIONS_PATH", HOME_PATH . '/Competitions' );
  
 /*
     Error reporting.
