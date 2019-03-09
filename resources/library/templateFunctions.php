@@ -40,4 +40,20 @@
      
         require_once(TEMPLATES_PATH . "/fms-footer.php");
     }
+
+    function getCompetitionSeasonList($compDir){
+        $season_dirs = scandir($compDir);
+        $seasons_list = '';
+        foreach ($season_dirs as $season_dir) {
+            if (is_dir($season_dir) and ((int)$season_dir = $season_dir) ) {
+              $seasons_list = $seasons_list . '<li><a href="./' . $season_dir . '">' . $season_dir . '</a></li>';            
+            }
+        }
+        $seasons = "<h2>Seasons</h2>
+            <ul>". 
+            $seasons_list . "
+            </ul>
+            ";
+        return $seasons;
+    }
 ?>

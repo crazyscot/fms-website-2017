@@ -10,20 +10,21 @@
   </ul>
 <p>Club</p>
   <ul class="nav trophy-nav">
-    <li><a href="http://www.fencingmidsouth.org.nz/Competitions/Autumn Cup"							>Autumn Cup</a></li>
-    <li><a href="http://www.fencingmidsouth.org.nz/Competitions/Games Of The Future"				>Games Of The Future</a></li>
-    <li><a href="http://www.fencingmidsouth.org.nz/Competitions/MidWinter Cup"						>MidWinter Cup</a></li>
-    <li><a href="http://www.fencingmidsouth.org.nz/Competitions/Olga Jekyll Foil Teams"				>Olga Jekyll Foil Teams</a></li>
-    <li><a href="http://www.fencingmidsouth.org.nz/Competitions/Spring Cup"							>Spring Cup</a></li>
-    <li><a href="http://www.fencingmidsouth.org.nz/Competitions/EcclestonEpee"						>Eccleston Epee</a></li>
-    <li><a href="http://www.fencingmidsouth.org.nz/Competitions/TimaruFoilChallenge"				>Timaru Foil Challenge</a></li>
-    <li><a href="http://www.fencingmidsouth.org.nz/Competitions/CanterburySchoolsComp"				>Canterbury Schools</a></li>
+    <li><a href="/Competitions/Autumn Cup"							           >Autumn Cup</a></li>
+    <li><a href="/Competitions/Games Of The Future"				         >Games Of The Future</a></li>
+    <li><a href="/Competitions/MidWinter Cup"						           >MidWinter Cup</a></li>
+    <li><a href="/Competitions/Olga Jekyll Foil Teams"		         >Olga Jekyll Foil Teams</a></li>
+    <li><a href="/Competitions/Spring Cup"							           >Spring Cup</a></li>
+    <li><a href="/Competitions/EcclestonEpee"						           >Eccleston Epee</a></li>
+    <li><a href="/Competitions/TimaruFoilChallenge"				         >Timaru Foil Challenge</a></li>
+    <li><a href="/Competitions/CanterburySchoolsComp"			         >Canterbury Schools</a></li>
   </ul>
 <p>National</p>
   <ul class="nav trophy-nav">
-      <li><a href="http://www.fencingmidsouth.org.nz/Competitions/Presidents Cup"						>Presidents Cup</a></li>
-      <li><a href="http://www.fencingmidsouth.org.nz/Competitions/SI Champs"							>SI Champs</a></li>
-      <li><a href="http://www.fencingmidsouth.org.nz/Competitions/National Under 15"					>National U15</a></li>
-      <li><a href="http://www.fencingmidsouth.org.nz/Competitions/NationalSecondarySchools"   		>National Secondary Schools</a></li>
-      <li><a href="http://www.fencingmidsouth.org.nz/Competitions/NationalOpen"   					>National Open, Vet Champs</a></li>
+      <li><a href="/Competitions/Presidents Cup"						      >Presidents Cup</a></li>
+      <li><a href="/Competitions/NationalOpen"                    >National Open, Vet Champs</a></li>
+      <li><a href="/Competitions/SI Champs"							          >SI Champs</a></li>
+      <li><a href="/Competitions/NationalU20"                     >National Under 20</a></li>
+      <li><a href="/Competitions/National Under 15"					      >National U15</a></li>
+      <li><a href="/Competitions/NationalSecondarySchools"   		  >National Secondary Schools</a></li>
   </ul>
