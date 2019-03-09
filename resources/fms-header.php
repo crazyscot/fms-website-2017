@@ -18,7 +18,7 @@
       </div>
       <div class="row">
 
-        <?php require_once(TEMPLATES_PATH .'/standard-menu-rowww.php'); ?> 
+        <?php require_once(TEMPLATES_PATH .'/standard-menu-row.php'); ?> 
 
       </div>
 	  <hr>

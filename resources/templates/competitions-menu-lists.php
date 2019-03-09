@@ -1,12 +1,12 @@
 <p>Regional</p>
   <ul class="nav trophy-nav">
-    <li><a href= <?php HOME_PATH ?>"/Competitions/MidSouth Open"                        >MidSouth Open</a></li>
-    <li><a href="http://www.fencingmidsouth.org.nz/Competitions/MidSouth Secondary School Beginners"	>MidSouth Secondary School Beginners</a></li>
-    <li><a href="http://www.fencingmidsouth.org.nz/Competitions/MidSouth Secondary School Champs"	    >MidSouth Secondary School Champs</a></li>
-    <li><a href="http://www.fencingmidsouth.org.nz/Competitions/MidSouth U15 Cadets"				  >MidSouth U15 Cadets</a></li>
-    <li><a href=<?php HOME_PATH ?>"/Competitions/MidSouth U20"						      >MidSouth U20</a></li>
-    <li><a href="http://www.fencingmidsouth.org.nz/Competitions/Inter City U13"               >Inter City U13</a></li>
-    <li><a href="http://www.fencingmidsouth.org.nz/Competitions/MidSouthPrimaryIntSchools"			>MidSouth Primary and Intermediate Schools</a></li>
+    <li><a href='/Competitions/MidSouth Open'                       >MidSouth Open</a></li>
+    <li><a href='/Competitions/MidSouth Secondary School Beginners' >MidSouth Secondary School Beginners</a></li>
+    <li><a href='/Competitions/MidSouth Secondary School Champs'	  >MidSouth Secondary School Champs</a></li>
+    <li><a href='/Competitions/MidSouth U15 Cadets'				          >MidSouth U15 Cadets</a></li>
+    <li><a href='/Competitions/MidSouth U20'						            >MidSouth U20</a></li>
+    <li><a href='/Competitions/Inter City U13'                      >Inter City U13</a></li>
+    <li><a href='/Competitions/MidSouthPrimaryIntSchools'		        >MidSouth Primary and Intermediate Schools</a></li>
   </ul>
 <p>Club</p>
   <ul class="nav trophy-nav">

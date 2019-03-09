@@ -55,13 +55,21 @@ defined("TEMPLATES_PATH")
 
 defined("CSS_PATH")
     or define("CSS_PATH", realpath(dirname(__DIR__) . '/CSS'));
+defined("CSS_URL")
+    or define("CSS_URL", '/CSS');
 
 defined("HOME_PATH")
     or define("HOME_PATH", realpath(dirname(__DIR__, 1) ));
+defined("HOME_URL")
+    or define("HOME_URL", '/' );
 
 defined("COMPETITIONS_PATH")
     or define("COMPETITIONS_PATH", HOME_PATH . '/Competitions' );
- 
+defined("COMPETITIONS_URL")
+    or define("COMPETITIONS_URL", '/Competitions' );
+
+
+
 /*
     Error reporting.
 */
