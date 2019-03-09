@@ -8,7 +8,7 @@
     <title>Fencing Mid-South People</title>
     <!--[if lt IE 9]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-    <link rel="stylesheet" type="text/css" href="../CSS/Site_responsive.css">
+    <link rel="stylesheet" type="text/css" href="<?php echo CSS_PATH ?>/Site_responsive.css">
   </head>
   <body>
     <div class="page-container">
