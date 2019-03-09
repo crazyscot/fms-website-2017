@@ -7,7 +7,7 @@
 
     require_once(LIBRARY_PATH . "/templateFunctions.php");
 
-    $content = file_get_contents('MidSouthU20.php');
+    $content = file_get_contents('NationalU20.php');
     $seasons = getCompetitionSeasonList(realpath(dirname(__FILE__)));
      
     // Must pass in variables (as an array) to use in template
