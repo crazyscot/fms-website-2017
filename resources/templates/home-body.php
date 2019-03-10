@@ -5,15 +5,8 @@
   <div class="main-0 main-1">
     <div><img src="images/WhatsNew.png" height="52" width="119"></div>
 
-
     <div class="whatsnew">
-        <h2>NZ National Open, and Veteran Champs</h2>
-  			<p>
-  				<?php include './Competitions/NationalOpen/2018/Notices/20181015.php';?>
-  			</p>
-    </div>
-    <div class="whatsnew">
-        <?php include './Notices/GearHireNotice201806.php';?>
+    <iframe src="https://embed.revolutionise.com.au/fencingmidsouth/home/" width="100%" height="600"></iframe>
     </div>
 
 
