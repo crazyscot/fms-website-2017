@@ -10,3 +10,4 @@
 		</div>
 		<?php include 'competitions-bottombar.php'; ?>
       </div>
+
