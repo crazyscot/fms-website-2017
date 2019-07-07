@@ -1,4 +1,4 @@
-        <div class="col-6 col-desk-4"> 
+    <div class="col-6 col-desk-4"> 
 			<a href="/">
 				<img src="/images/FMSlogo.png" height="134" width="312"> 
 			</a> 
@@ -11,4 +11,5 @@
           <div class="floatingmenu"><a href=<?php HOME_PATH ?>"/Contact.php">Contact</a></div>
           <div class="floatingmenu"><a href=<?php HOME_PATH ?>"/AboutUs.php">About Us</a></div>
           <div class="floatingmenu"><a href=<?php HOME_PATH ?>"/Links.php">Links</a></div>
+          <div class="floatingmenu"><a href=<?php HOME_PATH ?>"/People">Hall of Fame</a></div>
 		</div>
