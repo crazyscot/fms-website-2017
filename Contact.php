@@ -27,11 +27,11 @@
         <div class="main-0 main-1">
 
 			<h2>Contact Us</h2>
-			<p>Generial Inquiries: <a href="mailto:info@fencingmidsouth.org.nz">info@fencingmidsouth.org.nz</a></p>
-			<p>President: Richard Johnstone <a href="mailto:president@fencingmidsouth.org.nz">president@fencingmidsouth.org.nz</a></p>
-			<p>Secretary: Ross Younger <a href="mailto:secretary@fencingmidsouth.org.nz">secretary@fencingmidsouth.org.nz</a></p>
+			<p>Generial Enquiries: <a href="mailto:info@fencingmidsouth.org.nz">info@fencingmidsouth.org.nz</a></p>
+			<p>President: Rachel Rowlands-Clarke <a href="mailto:president@fencingmidsouth.org.nz">president@fencingmidsouth.org.nz</a></p>
+			<p>Secretary: Gareth Foley <a href="mailto:secretary@fencingmidsouth.org.nz">secretary@fencingmidsouth.org.nz</a></p>
 			<p>Treasurer: Julianne Myers <a href="mailto:treasurer@fencingmidsouth.org.nz">treasurer@fencingmidsouth.org.nz</a></p>
-			<p>Web site: Mark Ogilvie <a href="mailto:webmaster@fencingmidsouth.org.nz">webmaster@fencingmidsouth.org.nz</a></p>
+			<p>Web site: <em>Position vacant</em> <a href="mailto:webmaster@fencingmidsouth.org.nz">webmaster@fencingmidsouth.org.nz</a></p>
 			<p>If you are looking for club contact information please <a href="Clubs.php">visit our clubs page</a></p>
 		</div>
 		<?php include 'sidebar-bottom-menu.php'; ?>
