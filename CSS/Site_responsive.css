@@ -69,6 +69,7 @@
 	background-image: url("../images/FencingMSth3Medals_680_117.jpg");
 	width: 100vw;
 	height: 10vh;
+    border-bottom: 1px solid black;
 }
 body {
 	/* background-color: #CCCCCC; */
