@@ -67,8 +67,8 @@
 .banner-image {
 	background-size: cover;
 	background-image: url("../images/FencingMSth3Medals_680_117.jpg");
-	width: 100%;
-	height: 117px;
+	width: 100vw;
+	height: 10vh;
 }
 body {
 	/* background-color: #CCCCCC; */
