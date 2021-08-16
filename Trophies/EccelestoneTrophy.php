@@ -76,8 +76,8 @@
 					</tr>
 				</table>
 				<p>
-					<a href="http://www.fencingmidsouth.org.nz/images/Ecky.jpg" target="_blank">
-						<img src="http://www.fencingmidsouth.org.nz/images/Ecky_sm.jpg" alt="David Eccleston">
+					<a href="/images/Ecky.jpg" target="_blank">
+						<img src="/images/Ecky_sm.jpg" alt="David Eccleston">
 					</a>
 				</p>
 			</div>

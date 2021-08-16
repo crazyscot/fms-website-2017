@@ -39,7 +39,7 @@
 				<p>
 					We have only just begun to document this part of our history. Over the next few months we will be contacting
 					the people who donated trophies, and people who might be able to help fill in the missing history. If you have any relevant information 
-					that you think would be useful to put on these pages, please <a href="http://www.fencingmidsouth.org.nz/Contact.php">contact us</a>.
+					that you think would be useful to put on these pages, please <a href="/Contact.php">contact us</a>.
 				</p>
 			</div>
 		</div>
